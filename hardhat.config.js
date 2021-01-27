@@ -22,9 +22,13 @@ module.exports = {
   networks: {
     hardhat: {
       forking: {
-        url: process.env.ETHEREUM_NODE,
+        url: process.env.ETHEREUM,
         blockNumber: 11640915
       }
+    },
+    kovan: {
+      url: process.env.KOVAN,
+      accounts: [process.env.KOVAN_ACCOUNT]
     }
   }
 };
