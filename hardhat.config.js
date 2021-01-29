@@ -30,6 +30,10 @@ module.exports = {
     kovan: {
       url: process.env.KOVAN,
       accounts: [process.env.KOVAN_ACCOUNT]
+    },
+    mainnet: {
+      url: process.env.ETHEREUM,
+      accounts: []
     }
   },
   etherscan: {
