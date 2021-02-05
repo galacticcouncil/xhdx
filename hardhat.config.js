@@ -1,5 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-etherscan");
+require("@nomiclabs/hardhat-web3");
 require('dotenv').config();
 
 // This is a sample Hardhat task. To learn how to create your own go to
@@ -24,7 +25,7 @@ module.exports = {
     hardhat: {
       forking: {
         url: process.env.ETHEREUM,
-        blockNumber: 11640915
+        blockNumber: 11641253
       }
     },
     kovan: {
