@@ -34,7 +34,7 @@ module.exports = {
     },
     mainnet: {
       url: process.env.ETHEREUM,
-      accounts: []
+      accounts: [process.env.BOT_KEY]
     }
   },
   etherscan: {

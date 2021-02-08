@@ -11,6 +11,7 @@ async function timeToBlock(time, blockTime = 13.1) {
   const now =  moment().unix();
   console.log(moment(), moment(time))
   const timestamp = moment(time).unix();
+  console.log(timestamp);
   const blocks = Math.ceil((timestamp - now) / blockTime);
   const { number } = await web3.eth.getBlock('latest');
   return number + blocks;

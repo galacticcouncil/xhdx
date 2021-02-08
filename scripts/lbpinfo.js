@@ -2,7 +2,8 @@ const abi = require("./abi/lbp.json")
 const poolabi = require("./abi/pool.json");
 const { ethers } = require("hardhat");
 
-const usdcAddress = '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48';
+const daiAddress = '0x1528F3FCc26d13F7079325Fb78D9442607781c8C';
+const stablecoin = 'DAI';
 
 async function events(contract, topic) {
   let logs = await ethers.provider.getLogs({
@@ -14,41 +15,108 @@ async function events(contract, topic) {
   return logs.map(event => ({ ...event, ...contract.interface.parseLog(event) }))
 }
 
+const lAbi = [
+  {
+    "inputs": [],
+    "name": "bPool",
+    "outputs": [
+      {
+        "internalType": "contract IBPool",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+];
+
+const pAbi = [
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "caller",
+        "type": "address"
+      },
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "tokenIn",
+        "type": "address"
+      },
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "tokenOut",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "tokenAmountIn",
+        "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "tokenAmountOut",
+        "type": "uint256"
+      }
+    ],
+    "name": "LOG_SWAP",
+    "type": "event"
+  }
+
+]
+
 async function info(address) {
-  const lbp = new ethers.Contract(address, abi, ethers.provider);
+  const lbp = new ethers.Contract(address, lAbi, ethers.provider);
   const poolAddress = await lbp.bPool();
-  const controllerAddress = await lbp.getController();
-  const controller = new ethers.Contract(controllerAddress, poolabi, ethers.provider);
-  const pool = new ethers.Contract(poolAddress, poolabi, ethers.provider);
-  let swaps = await events(pool, 'LOG_SWAP');
-  console.log(lbp.interface.getSighash('pokeWeights()'));
-  console.log(pool.interface.getEventTopic('LOG_CALL'))
-  let pokes = await ethers.provider.getLogs({
-    fromBlock: 0,
-    toBlock: 'latest',
-    address: lbp.address,
-    topics: ['0xe211b87500000000000000000000000000000000000000000000000000000000']
+  const pool = new ethers.Contract(poolAddress, pAbi, ethers.provider);
+  lbp.on({topics: ['0xe211b87500000000000000000000000000000000000000000000000000000000'] }, e => {
+    console.log('poked!', e)
   });
-  console.log(pokes.length);
+  pool.on('LOG_SWAP', (id, tokenIn, tokenOut, tokenAmountIn, tokenAmountOut) => {
+    const [tokenInSym, tokenOutSym] = [tokenIn, tokenOut]
+        .map(token => token.toLowerCase() === daiAddress.toLowerCase() ? 'DAI' : 'xHDX');
+    if (tokenIn.toLowerCase() === daiAddress.toLowerCase()) {
+      [tokenAmountIn, tokenAmountOut] = [
+          ethers.utils.formatUnits(tokenAmountIn),
+          ethers.utils.formatUnits(tokenAmountOut, 12)
+      ];
+    } else {
+      [tokenAmountIn, tokenAmountOut] = [
+        ethers.utils.formatUnits(tokenAmountOut, 12),
+        ethers.utils.formatUnits(tokenAmountIn)
+      ];
+    }
+    const swap = {
+      userAddress: { id },
+      tokenIn,
+      tokenOut,
+      tokenInSym,
+      tokenOutSym,
+      tokenAmountIn,
+      tokenAmountOut
+    }
+    console.log('swap!', swap)
+  });
   return {
     address,
-    gradualUpdate: await lbp.gradualUpdate(),
     poolAddress,
-    controllerAddress,
-    rights: await lbp.rights(),
-    normalizedWeight: ethers.utils.formatEther(await pool.getNormalizedWeight(usdcAddress)),
-    denormalizedWeight: ethers.utils.formatEther(await pool.getDenormalizedWeight(usdcAddress)),
-    totalDenormalizedWeight: ethers.utils.formatEther(await pool.getTotalDenormalizedWeight())
   }
 }
 
 async function main() {
   // console.log(await info('0x91ACcD0BC2aAbAB1d1b297EB64C4774bC4e7bcCE'));
-  console.log(await info('0x025aab1e585cc49257a97b065e6d1976ce043ba7'));
+  console.log(await info('0x9907e1519335ae2d3c743350828d234d929a5362'));
 }
 
 main()
-    .then(() => process.exit(0))
+    .then(() => console.log('done'))
     .catch(error => {
       console.error(error);
       process.exit(1);
