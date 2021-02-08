@@ -35,7 +35,7 @@ async function poke() {
   const block = await ethers.provider.getBlock(blockNumber);
   const fromLast = moment.duration(moment().diff(moment.unix(block.timestamp)));
   console.log('current gas price', currentGasPrice());
-  console.log('last poke', fromLast.humanize());
+  console.log('last poke', fromLast.humanize(), 'ago');
   if (moment.duration(40, 'minutes') < fromLast && !poking) {
     poking = true;
     try {
