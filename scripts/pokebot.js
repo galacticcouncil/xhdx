@@ -9,7 +9,7 @@ const lbpAddress = '0x6428006d00a224116c3e8a4fca72ac9bb7d42327';
 
 let poking = false;
 const gasPriceHistory = [];
-const lbp = new ethers.Contract(lbpAddress, lAbi, ethers.provider);
+let lbp = null;
 
 const updateGasPrice = async () =>
     fetch('https://api.etherscan.io/api?module=gastracker&action=gasoracle')
@@ -38,15 +38,22 @@ async function poke() {
   console.log('last poke', fromLast.humanize());
   if (moment.duration(40, 'minutes') < fromLast && !poking) {
     poking = true;
-    const gasPrice = currentGasPrice();
-    const tx = await lbp.pokeWeights({ gasPrice })
-    console.log('poking', tx);
-    const receipt = await tx.wait();
-    console.log('poked', receipt)
+    try {
+      const gasPrice = currentGasPrice() * 1000000000;
+      const tx = await lbp.pokeWeights({ gasPrice });
+      console.log('poking', tx.hash);
+      const receipt = await tx.wait();
+      console.log('poked !');
+    } catch (e) {
+      console.log('failed', e);
+    }
+    poking = false;
   }
 }
 
 async function main() {
+  const [signer] = await ethers.getSigners();
+  lbp = new ethers.Contract(lbpAddress, lAbi, signer);
   await updateGasPrice();
   console.log('current block', lastBlock());
   await poke();
