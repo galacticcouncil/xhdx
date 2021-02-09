@@ -34,12 +34,17 @@ async function poke() {
   })).pop();
   const block = await ethers.provider.getBlock(blockNumber);
   const fromLast = moment.duration(moment().diff(moment.unix(block.timestamp)));
-  console.log('current', SPEED, currentGasPrice());
+  const gas = currentGasPrice();
+  console.log('current', SPEED, gas);
   console.log('last poke', fromLast.humanize(), 'ago');
-  if (moment.duration(40, 'minutes') < fromLast && !poking) {
+  if (!poking && (
+        gas < 100 && moment.duration(20, 'minutes') <  fromLast
+      || gas < 150 && moment.duration(30, 'minutes') <  fromLast
+      || gas >= 150 && moment.duration(40, 'minutes') <  fromLast
+      )) {
     poking = true;
     try {
-      const gasPrice = currentGasPrice() * 1000000000;
+      const gasPrice = gas * 1000000000;
       const tx = await lbp.pokeWeights({ gasPrice });
       console.log('poking', tx.hash);
       const receipt = await tx.wait();
