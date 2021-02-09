@@ -3,8 +3,8 @@ const lAbi = require("./abi/lbp.json")
 const moment = require('moment');
 const fetch = require('node-fetch');
 
-const SPEED = 'ProposeGasPrice';
-// const SPEED = 'SafeGasPrice';
+//const SPEED = 'ProposeGasPrice';
+const SPEED = 'SafeGasPrice';
 const lbpAddress = '0x6428006d00a224116c3e8a4fca72ac9bb7d42327';
 
 let poking = false;
@@ -34,7 +34,7 @@ async function poke() {
   })).pop();
   const block = await ethers.provider.getBlock(blockNumber);
   const fromLast = moment.duration(moment().diff(moment.unix(block.timestamp)));
-  console.log('current gas price', currentGasPrice());
+  console.log('current', SPEED, currentGasPrice());
   console.log('last poke', fromLast.humanize(), 'ago');
   if (moment.duration(40, 'minutes') < fromLast && !poking) {
     poking = true;
