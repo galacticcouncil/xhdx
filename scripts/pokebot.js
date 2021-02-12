@@ -1,5 +1,5 @@
 const { ethers } = require("hardhat");
-const lAbi = require("./abi/lbp.json")
+const lAbi = require("./abi/lbp.json");
 const moment = require('moment');
 const fetch = require('node-fetch');
 
