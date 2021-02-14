@@ -16,6 +16,7 @@ const FROM_BLOCK = 11750733;
 const TO_BLOCK = 11836883; // pause block
 const ethPrice = 1763.9025;
 const hdxPrice = 0.080590606687;
+const excluded = ['0xC2C5A77d9f434F424Df3d39de9e90d95A0Df5Aca'.toLowerCase()];
 const daiAddress = '0x6b175474e89094c44da98b954eedeac495271d0f';
 const tokenAddress = '0x6fcb6408499a7c0f242e32d77eb51ffa1dd28a7e';
 const poolAddress = '0xF014fC5d0F02C19D617a30a745Ab86A8cA32C92F'.toLowerCase();
@@ -199,6 +200,7 @@ async function main() {
   console.log('value locked', formatHdx(Object.values(contracts).reduce((a, b) => a.add(b), bn(0))));
 
   const eligible = [holders, onlyFailed].map(Object.keys).flat()
+      .filter(address => !excluded.includes(address))
       .map(address => ([address, { balance: holders[address] || bn(0), gasCostHdx: bn(0), gasCost: bn(0), txs: [], ...(buyers[address] || {})}]))
       .reduce(toMap, {});
   console.log('eligible to claim', Object.keys(eligible).length)
