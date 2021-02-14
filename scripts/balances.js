@@ -204,6 +204,7 @@ async function main() {
       .map(address => ([address, { balance: holders[address] || bn(0), gasCostHdx: bn(0), gasCost: bn(0), txs: [], ...(buyers[address] || {})}]))
       .reduce(toMap, {});
   console.log('eligible to claim', Object.keys(eligible).length)
+  console.log('total bought xHDX to be claimed', formatHdx(Object.values(eligible).reduce((a, { balance }) => a.add(balance), bn(0))));
   const totalGasCost = Object.values(eligible).reduce((a, { gasCost }) => a.add(gasCost), bn(0));
   console.log('gas refunded', utils.formatEther(totalGasCost), 'ETH');
   console.log('in xHDX', formatHdx(ethToHdx(totalGasCost)));
