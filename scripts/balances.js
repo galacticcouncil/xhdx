@@ -142,7 +142,7 @@ async function loadReceipts(txs) {
   return await Promise.map(txs, async tx => {
     const receipt = await retry(() => ethers.provider.getTransactionReceipt(tx.hash), { retries: 3 });
     bar.tick();
-    return { ...tx, receipt }
+    return { ...tx, receipt };
   }, { concurrency });
 }
 
@@ -216,9 +216,16 @@ async function main() {
   }])).reduce(toMap, {});
   console.log('exporting json');
   fs.writeFileSync('claims.json', JSON.stringify(claimsDb, null, 2));
+  console.log('exporting hashed jsons');
+  let hashed = Object.entries(claimsDb)
+      .map(([address,data]) => ({hash: String(address[2]), data: [address, data]}));
+  hashed = Object.entries(groupBy(hashed, 'hash'))
+      .map(([hash, claims]) => ([hash, claims.map(c => c.data).reduce(toMap, {})]))
+      .reduce(toMap, {});
+  Object.entries(hashed).forEach(([hash, claims]) => fs.writeFileSync(`claims-${hash}.json`, JSON.stringify(claims, null, 2)));
+  console.log('exporting csv');
   const rows = Object.entries(claimsDb).map(([address, data]) => ({ address, ...data, refundedTxs: data.refundedTxs.length }));
   const claimsCsv = json2csv.parse(rows);
-  console.log('exporting csv');
   fs.writeFileSync('claims.csv', claimsCsv);
   console.log('exporting rs');
   const vec = Object.entries(eligible).reduce((str, [address, { balance, gasCostHdx }]) => {
