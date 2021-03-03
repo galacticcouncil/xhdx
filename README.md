@@ -1,6 +1,6 @@
 # xHDX Tokens
 
-Smart contracts and supporting scripts for HydraDX ERC20 token used in LBP.
+Smart contracts and supporting scripts for HydraDX ERC20 token used in LBP
 
 ## Setup
 
@@ -25,8 +25,7 @@ npm test
 
 ## Generate claims data
 
-This script is used for getting balances and refunded gas fees from Ethereum network
-to be imported to HydraDX.
+This script will fetch balances and refunded gas fees from Ethereum network and exports them for HydraDX claims process.
 
 The [environment variables](.env.example) `ETHEREUM` and `ETHERSCAN_API_KEY` have to be set.
 
@@ -34,4 +33,4 @@ The [environment variables](.env.example) `ETHEREUM` and `ETHERSCAN_API_KEY` hav
 npm run claims
 ```
 
-Claimable balance will be exported into `json`, `csv` and `rs` files.
+The claimable balances will be exported into `json`, `csv` and `rs` files.
