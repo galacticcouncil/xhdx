@@ -23,10 +23,6 @@ module.exports = {
   solidity: "0.5.17",
   networks: {
     hardhat: {
-      forking: {
-        url: process.env.ETHEREUM,
-        blockNumber: 11641253
-      }
     },
     kovan: {
       url: process.env.KOVAN,
