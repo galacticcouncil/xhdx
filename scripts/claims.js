@@ -6,8 +6,7 @@ const exportClaims = require('./lib/export');
 const Chunks = require('./lib/chunks');
 
 const FROM_BLOCK = 11750733;
-const TO_BLOCK = 11817090;
-// const TO_BLOCK = 11836883; // pause block
+const TO_BLOCK = 11836883; // pause block
 const ethPrice = 1763.9025;
 const hdxPrice = 0.080590606687;
 
