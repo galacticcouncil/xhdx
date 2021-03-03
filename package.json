@@ -6,7 +6,7 @@
   "scripts": {
     "test": "hardhat test",
     "deploy:test": "HARDHAT_NETWORK=kovan hardhat run scripts/deploy.js",
-    "claims": "HARDHAT_NETWORK=mainnet node scripts/balances.js"
+    "claims": "HARDHAT_NETWORK=mainnet node scripts/claims.js"
   },
   "keywords": [],
   "author": "",
