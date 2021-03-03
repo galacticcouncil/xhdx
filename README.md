@@ -25,7 +25,7 @@ npm test
 
 ## Generate claims data
 
-This script will fetch balances and refunded gas fees from Ethereum network and exports them for HydraDX claims process.
+This [script](scripts/claims.js) will fetch balances and refunded gas fees from Ethereum network and exports them for HydraDX claims process.
 
 The [environment variables](.env.example) `ETHEREUM` and `ETHERSCAN_API_KEY` have to be set.
 
