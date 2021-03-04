@@ -14,7 +14,14 @@ const excluded = [
   '0xC2C5A77d9f434F424Df3d39de9e90d95A0Df5Aca'.toLowerCase(), // treasury
 ];
 
-const xHDX = new ethers.Contract('0x6fcb6408499a7c0f242e32d77eb51ffa1dd28a7e', require('./abi/xhdx.json'));
+const CONTRACTS = {
+  xhdx: '0x6FCb6408499a7c0f242E32D77EB51fFa1dD28a7E'.toLowerCase(),
+  balancer_proxy_2: '0x3E66B66Fd1d0b02fDa6C811Da9E0547970DB2f21'.toLowerCase(),
+  balancer_proxy_1: '0x6317C5e82A06E1d8bf200d21F4510Ac2c038AC81'.toLowerCase(),
+  balancer_pool: '0xF014fC5d0F02C19D617a30a745Ab86A8cA32C92F'.toLowerCase(),
+};
+
+const xHDX = new ethers.Contract(CONTRACTS.xhdx, require('./abi/xhdx.json'));
 const chunks = new Chunks(FROM_BLOCK, TO_BLOCK);
 
 async function generateClaims() {
@@ -95,18 +102,15 @@ async function generateClaims() {
 const fetchBuys = async () => {
   console.log('fetching transactions from balancer exchange 2');
   const transactions2 = await chunks.fetchTransactions(
-    new ethers.Contract('0x3e66b66fd1d0b02fda6c811da9e0547970db2f21', require('./abi/balancer-exchange.json')),
+    new ethers.Contract(CONTRACTS.balancer_proxy_2, require('./abi/balancer-exchange.json')),
   );
   console.log('fetching transactions from balancer exchange 1');
   const transactions1 = await chunks.fetchTransactions(
-    new ethers.Contract(
-      '0x6317C5e82A06E1d8bf200d21F4510Ac2c038AC81'.toLowerCase(),
-      require('./abi/balancer-exchange1.json'),
-    ),
+    new ethers.Contract(CONTRACTS.balancer_proxy_1, require('./abi/balancer-exchange1.json')),
   );
   console.log('fetching transactions from balancer pool');
   const transactionsPool = await chunks.fetchTransactions(
-    new ethers.Contract('0xF014fC5d0F02C19D617a30a745Ab86A8cA32C92F'.toLowerCase(), require('./abi/pool.json')),
+    new ethers.Contract(CONTRACTS.balancer_pool.toLowerCase(), require('./abi/pool.json')),
   );
   const transactions = [...transactions1, ...transactions2, ...transactionsPool];
   console.log('transactions fetched', transactions.length);
