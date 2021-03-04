@@ -70,6 +70,7 @@ class Chunks {
       balances[from] = balances[from].sub(value);
       balances[to] = balances[to].add(value);
     });
+    delete balances['0x0000000000000000000000000000000000000000'];
     return balances;
   };
 

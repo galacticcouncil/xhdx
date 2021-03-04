@@ -1,5 +1,6 @@
 const { ethers } = require('hardhat');
 const { utils } = ethers;
+const { assert } = require("chai");
 
 const { filterBy, groupBy, diff, toMap, mapValues, bn, sumValues } = require('./lib/utils');
 const exportClaims = require('./lib/export');
@@ -9,6 +10,7 @@ const FROM_BLOCK = 11750733;
 const TO_BLOCK = 11836883; // pause block
 const ethPrice = 1763.9025;
 const hdxPrice = 0.080590606687;
+const governanceResolution = '🍩';
 
 const excluded = [
   '0xC2C5A77d9f434F424Df3d39de9e90d95A0Df5Aca'.toLowerCase(), // treasury
@@ -21,18 +23,21 @@ const CONTRACTS = {
   balancer_pool: '0xF014fC5d0F02C19D617a30a745Ab86A8cA32C92F'.toLowerCase(),
 };
 
-const xHDX = new ethers.Contract(CONTRACTS.xhdx, require('./abi/xhdx.json'));
+const xHDX = new ethers.Contract(CONTRACTS.xhdx, require('./abi/xhdx.json')).connect(ethers.provider);
 const chunks = new Chunks(FROM_BLOCK, TO_BLOCK);
 
 async function generateClaims() {
-  console.log('latest block', (await ethers.provider.getBlock('latest')).number);
-
-  console.log('fetching buys');
-  const buys = await fetchBuys();
+  console.log('generating claims for', governanceResolution);
+  const totalSupply = await xHDX.totalSupply();
+  console.log('xHDX total supply', formatHdx(totalSupply));
 
   console.log('fetching balances');
   const balances = await chunks.fetchBalances(xHDX);
   console.log(Object.keys(balances).length, 'balances fetched');
+  assert.equal(sumValues(balances).toString(), totalSupply.toString());
+
+  console.log('fetching buys');
+  const buys = await fetchBuys();
 
   const buyers = Object.entries(groupBy(buys, 'from'))
     .map(([address, txs]) => {
@@ -67,7 +72,13 @@ async function generateClaims() {
   console.log(Object.keys(contracts).length, 'contract holders');
   console.log('xHDX locked in contracts', formatHdx(sumValues(contracts)));
 
-  const eligibleAddresses = [holders, onlyFailed]
+  const governanceOptions = {
+    '🎂': [buyers],
+    '🍩': [holders, onlyFailed],
+    '🍪': [holders]
+  };
+
+  const eligibleAddresses = governanceOptions[governanceResolution]
     .map(Object.keys)
     .flat()
     .filter(address => !excluded.includes(address));
@@ -119,7 +130,7 @@ const fetchBuys = async () => {
   );
   console.log('total number of buy transactions', buyTransactions.length);
   const withReceipts = await chunks.loadReceipts(buyTransactions);
-  console.log('failed buys transactions', withReceipts.filter(({ receipt }) => !receipt.status).length);
+  console.log('failed buy transactions', withReceipts.filter(({ receipt }) => !receipt.status).length);
   return withReceipts.map(tx => {
     const gasCost = tx.gasPrice.mul(tx.receipt.gasUsed);
     const gasCostHdx = ethToHdx(gasCost);
