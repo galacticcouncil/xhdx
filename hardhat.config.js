@@ -1,11 +1,11 @@
-require('@nomiclabs/hardhat-waffle');
-require('@nomiclabs/hardhat-etherscan');
-require('@nomiclabs/hardhat-web3');
+require("@nomiclabs/hardhat-waffle");
+require("@nomiclabs/hardhat-etherscan");
+require("@nomiclabs/hardhat-web3");
 require('dotenv').config();
 
 // This is a sample Hardhat task. To learn how to create your own go to
 // https://hardhat.org/guides/create-task.html
-task('accounts', 'Prints the list of accounts', async () => {
+task("accounts", "Prints the list of accounts", async () => {
   const accounts = await ethers.getSigners();
 
   for (const account of accounts) {
@@ -13,41 +13,27 @@ task('accounts', 'Prints the list of accounts', async () => {
   }
 });
 
-// You need to export an object to set up your config
-// Go to https://hardhat.org/config/ to learn more
+const infuraKey = process.env.INFURA_KEY || '84842078b09946638c03157f83405213';
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
-const networks = (() => {
-  const config = {};
-  if (process.env.KOVAN) {
-    config.kovan = {
-      url: process.env.KOVAN,
-      accounts: [],
-    };
-    if (process.env.KOVAN_ACCOUNT) {
-      config.accounts = [process.env.KOVAN_ACCOUNT];
-    }
-  }
-
-  if (process.env.ETHEREUM) {
-    config.mainnet = {
-      url: process.env.ETHEREUM,
-      accounts: [],
-    };
-    if (process.env.BOT_KEY) {
-      config.accounts = [process.env.BOT_KEY];
-    }
-  }
-
-  return config;
-})();
-
 module.exports = {
-  solidity: '0.5.17',
-  networks,
-  etherscan: {
-    apiKey: process.env.ETHERSCAN_API_KEY,
+  solidity: "0.5.17",
+  networks: {
+    hardhat: {
+    },
+    kovan: {
+      url: process.env.KOVAN || `https://kovan.infura.io/v3/${infuraKey}`,
+      accounts: process.env.KOVAN_ACCOUNT ? [process.env.KOVAN_ACCOUNT] : []
+    },
+    mainnet: {
+      url: process.env.ETHEREUM || `https://mainnet.infura.io/v3/${infuraKey}`,
+      accounts: process.env.BOT_KEY ? [process.env.BOT_KEY] : []
+    }
   },
+  etherscan: {
+    apiKey: process.env.ETHERSCAN_API_KEY
+  }
 };
+
