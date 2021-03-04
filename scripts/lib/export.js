@@ -1,10 +1,11 @@
-const fs = require("fs");
-const json2csv = require("json2csv");
+const fs = require('fs');
+const json2csv = require('json2csv');
+const EXP_DIR = 'export/claims/';
 
-const { groupBy, toMap } = require("./utils");
+const { groupBy, toMap } = require('./utils');
 
 function json(claims) {
-  fs.writeFileSync("claims.json", JSON.stringify(claims, null, 2));
+  fs.writeFileSync(EXP_DIR + 'claims.json', JSON.stringify(claims, null, 2));
 }
 
 function splitJson(claims) {
@@ -12,14 +13,11 @@ function splitJson(claims) {
     hash: String(address[2]),
     data: [address, data],
   }));
-  const split = Object.entries(groupBy(hashed, "hash"))
-    .map(([hash, claims]) => [
-      hash,
-      claims.map((c) => c.data).reduce(toMap, {}),
-    ])
+  const split = Object.entries(groupBy(hashed, 'hash'))
+    .map(([hash, claims]) => [hash, claims.map(c => c.data).reduce(toMap, {})])
     .reduce(toMap, {});
   Object.entries(split).forEach(([hash, claims]) =>
-    fs.writeFileSync(`claims-${hash}.json`, JSON.stringify(claims, null, 2))
+    fs.writeFileSync(`${EXP_DIR}claims-${hash}.json`, JSON.stringify(claims, null, 2)),
   );
 }
 
@@ -30,31 +28,28 @@ function csv(claims) {
     refundedTxs: data.refundedTxs.length,
   }));
   const claimsCsv = json2csv.parse(rows);
-  fs.writeFileSync("claims.csv", claimsCsv);
+  fs.writeFileSync(EXP_DIR + 'claims.csv', claimsCsv);
 }
 
 function rust(claims) {
-  const vec = Object.entries(claims).reduce(
-    (str, [address, { totalClaimRaw }]) => {
-      str += `    ("${address}", ${totalClaimRaw}),\n`;
-      return str;
-    },
-    ""
-  );
+  const vec = Object.entries(claims).reduce((str, [address, { totalClaimRaw }]) => {
+    str += `    ("${address}", ${totalClaimRaw}),\n`;
+    return str;
+  }, '');
   fs.writeFileSync(
-    "claims_data.rs",
-    `use lazy_static;
-use sp_std::vec;
-lazy_static::lazy_static! {
-pub static ref CLAIMS_DATA: vec::Vec<(&'static str, u128)> = vec![
-${vec}];
-}`
+    EXP_DIR + 'claims_data.rs',
+    `use lazy_static;\n` +
+      `use sp_std::vec;\n` +
+      `lazy_static::lazy_static! {\n` +
+      `pub static ref CLAIMS_DATA: vec::Vec<(&'static str, u128)> = vec![\n` +
+      `${vec}];\n` +
+      `}\n`,
   );
 }
 
 function exportClaims(claims) {
-  console.log("exporting ...");
-  [json, splitJson, csv, rust].map((e) => e.apply(this, [claims]));
+  console.log('exporting ...');
+  [json, splitJson, csv, rust].map(e => e.apply(this, [claims]));
 }
 
 module.exports = exportClaims;

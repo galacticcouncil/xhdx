@@ -1,0 +1,3132 @@
+{
+  "0x2ca3a2b525e75b2f20f59deccae3ffa4bdf3eaa2": {
+    "totalClaim": "3680834.99605164657",
+    "bought": "3670450.144771407318",
+    "gasRefund": "10384.851280239252",
+    "refundedTxs": [
+      "0x26b385d6f423e6c05103eec6e79a5118093ec96d3f1e44e5617b87c418893443",
+      "0x19649ff5ad039893f331dc1d4efd32b75d06e94a1e1b0d5cb0cd6a4c5007fdfe",
+      "0xf01881d71915ef62c10f6ec3bd3a55d7a3b9e39d8910cf0780bdea6996da741f",
+      "0xf1035cc2d0f38a09ce50fe79dae020b39ef1747cd0534d5492aea0c609adc71b",
+      "0x157500ca7a91054178e706fcc2bbf4511cba5bdaad0f537dd6905f57ff95542d",
+      "0x06104194d9362eb3ee0cc4be03565f2af52d83095fe41c84f938b49e93c3984c",
+      "0x38f5a485515639a4ddf84e8a290df2ef10532b7ffd2ca38345207f067aaf8022"
+    ],
+    "totalClaimRaw": "3680834996051646570"
+  },
+  "0x26c16d75345e10f663c10b7b5808480164ffd64d": {
+    "totalClaim": "2889.636144454871",
+    "bought": "0.000059139701",
+    "gasRefund": "2889.63608531517",
+    "refundedTxs": [
+      "0xb32d2f603da3323f09879ca35552ce4d6e7ed92c35813378a693d3972db36b8f",
+      "0xb00c001f4b6c0036d1221226217ad8064f4d7963a85fc9f0816a34e6d1778b4d"
+    ],
+    "totalClaimRaw": "2889636144454871"
+  },
+  "0x29dcf70568785401574c8cd06c07b39e26618bb7": {
+    "totalClaim": "5941.406902079832",
+    "bought": "4892.280765963387",
+    "gasRefund": "1049.126136116445",
+    "refundedTxs": [
+      "0x174dd7debbe8c7a32b381520962de2d7ee692220fc0540d15fe101523ab9d873"
+    ],
+    "totalClaimRaw": "5941406902079832"
+  },
+  "0x2debdf4427ccbcfdbc7f29d63964499a0ec184f6": {
+    "totalClaim": "2509948.499234911825",
+    "bought": "2500319.623100077952",
+    "gasRefund": "9628.876134833873",
+    "refundedTxs": [
+      "0xa5bb1aa71f557e7ddc9da5dbd5b2df83be57fdb1d522cce7d33103b0e23b980a",
+      "0x8087339897c8f64aa415b759ea6d05177ad6645c7f9ebc787d1cb20e98714c18",
+      "0x5b484e9efd9b3281758774242281e7a23169c02660c546caadd2caf29fb98cbe",
+      "0x28cbb194654b4a2b147183a72983857a9766904a856d7e3034910fbce5ae45ce",
+      "0xb2187685d1979b6127b14197e8aabe419833c23c70ac167563a2f26619814c92",
+      "0x32d59ebd38dfdffcbdfb928ea7f16b6adf8e4c7198f0de9489755840d10ca019",
+      "0xa1c865344f9fb17035c422ec4da3587bc8c1cef723362e7a9e157a7aa2394943",
+      "0xb614698a51602839a55192927fc3e49d1cde56fdc5febbed9fb9b62e905dbd66",
+      "0x55f1ff3461a060f00f3ba8f4549e4995618dd8690c030385acabdf28335b8aca"
+    ],
+    "totalClaimRaw": "2509948499234911825"
+  },
+  "0x22cab81e0fee2bad5b015dbbeb6a374a1b8738de": {
+    "totalClaim": "10659.111056097415",
+    "bought": "10000.0",
+    "gasRefund": "659.111056097415",
+    "refundedTxs": [
+      "0x92af75982dce63a8ba26a0278bbb8255d757c482313c04c1a56c8ea4ebf25fbb"
+    ],
+    "totalClaimRaw": "10659111056097415"
+  },
+  "0x2792453292fdd1d52594a783f131462f12bde7e5": {
+    "totalClaim": "183501.449505474566",
+    "bought": "181253.083431701651",
+    "gasRefund": "2248.366073772915",
+    "refundedTxs": [
+      "0x42bc477186a6d8b46121e867e92dd746b1154b697e5df278858edc172af20f54",
+      "0x87437eab01adc59d3ec8d282e9e3aa26890eb7321350558d49cc7508f5bf681c",
+      "0xa695bda7dda767406755b6c46e9a1f72b07e438daae2972ea2273f0c7c822fb5"
+    ],
+    "totalClaimRaw": "183501449505474566"
+  },
+  "0x213f6b2680dce3e4d0924acff3e4e34520ef9ba1": {
+    "totalClaim": "78632.366193480755",
+    "bought": "72895.232169760188",
+    "gasRefund": "5737.134023720567",
+    "refundedTxs": [
+      "0x1666696e7d57621142655777ba488ede782d2cd5aac6982b3d059c8afd4f6b5b",
+      "0xe9826ae26a7868e2ea201c9eb3db9ea7c7a4d5440096619346bf209983ea647b",
+      "0xa2039326b6f0824f0196e1a221dc44d40f2ad9b469f211ec2d6dd6e8cffb3c83",
+      "0xade371849ccd651cbd5c17a507c01e3051f287ec9db8a73640f526cbfd7fc545",
+      "0xe005c6f68f1683b7d87ad2aac78d4becf901eb87b99f695b7200d6346ca8200f",
+      "0xedb8c7294d0850fc35c083e01230b4653c119c3b6fe0d9b1e01587cacc5ffc40"
+    ],
+    "totalClaimRaw": "78632366193480755"
+  },
+  "0x27f33f92b16b88d7e9730d325f5eae8920c75ac6": {
+    "totalClaim": "31488.503956971217",
+    "bought": "30626.630891054816",
+    "gasRefund": "861.873065916401",
+    "refundedTxs": [
+      "0x9c30f8338a9f6061f7ccd73a74e189000f1e5cdaf3bdd55604d0da723b794aa3"
+    ],
+    "totalClaimRaw": "31488503956971217"
+  },
+  "0x2d15dd63adcabc12100707b62ecbf43b136074a3": {
+    "totalClaim": "147672.716243859532",
+    "bought": "145691.708061949164",
+    "gasRefund": "1981.008181910368",
+    "refundedTxs": [
+      "0x242ee078a1012f030c1f24c1651e181c2d780e64290a3a3b0e6cbc745deaff47"
+    ],
+    "totalClaimRaw": "147672716243859532"
+  },
+  "0x2851857a4a55db6d462016f8787fab9d9e710b60": {
+    "totalClaim": "88191.249144028211",
+    "bought": "86492.069858934316",
+    "gasRefund": "1699.179285093895",
+    "refundedTxs": [
+      "0xbe5449ab78d39c276e45fc0781ff85653b28ca453f14f79bddc3528acd66890e"
+    ],
+    "totalClaimRaw": "88191249144028211"
+  },
+  "0x25abdaf98e95b8da3b43d0b19920bff7a5301195": {
+    "totalClaim": "277083.507352180702",
+    "bought": "274880.088283749072",
+    "gasRefund": "2203.41906843163",
+    "refundedTxs": [
+      "0x84e5881ec464fe71b9af211af21eedda3980011f0d938b0838208cf19ea39b24",
+      "0xde98d8ae287a577b66b8c6b33a10ed88e857e02459210c3eeb0c8a7ae7a4414d"
+    ],
+    "totalClaimRaw": "277083507352180702"
+  },
+  "0x2f5fbfade4b0de5a4df6d9661b077a7faff54120": {
+    "totalClaim": "22002.154178121734",
+    "bought": "20779.075772289754",
+    "gasRefund": "1223.07840583198",
+    "refundedTxs": [
+      "0x2b73e6ea68fc1cb43e1995eb2166680829e1225f89f7bd41e153684bc6c37045",
+      "0x71e6f534ec3a553181c1cd47a9e58db17d016f47eabecfa3e8b13e808918c1ef"
+    ],
+    "totalClaimRaw": "22002154178121734"
+  },
+  "0x2e3b5867065352203a5f8d90f60cf43a41722447": {
+    "totalClaim": "92256.953236230512",
+    "bought": "88888.88888888",
+    "gasRefund": "3368.064347350512",
+    "refundedTxs": [
+      "0x28b1ec23ff50b01f13e77496abc38e984b90f33038464cac44299f024402b5ad",
+      "0x9b6b9dcd2c4834d8818dda9aa032c8cfde200f00322536e06c3a7e0f0202710f",
+      "0x9c2da6c60522ae08ca8cc41d0e76e99da935cd1b9237419b8ba3ddc4943eded5"
+    ],
+    "totalClaimRaw": "92256953236230512"
+  },
+  "0x2675a71b1ca94f10b4bc5838ecf887de7593a28a": {
+    "totalClaim": "2932372.318743051486",
+    "bought": "2929469.367973108271",
+    "gasRefund": "2902.950769943215",
+    "refundedTxs": [
+      "0x857e0def63962f7c97798208d7d40d50fb737ec258e7ee5bacbe1251fc1aae7e",
+      "0x1a89f08fc7aedd904d89e729ce9d868c1f5cce85d0106650275f1b64a52f6017",
+      "0x0e3d027debe24c87bcdc20d5d88c6f6276ba5eebd3e6856021efb3b3b1ff8a85",
+      "0xa45f8142863adbfa3dff5098c119ccc734ba0a8e618ad6b95c656599fb656f47"
+    ],
+    "totalClaimRaw": "2932372318743051486"
+  },
+  "0x2c5b8d5897cba509f1e0b0e184423194c5ff5f79": {
+    "totalClaim": "31330.628824325428",
+    "bought": "28646.074964639952",
+    "gasRefund": "2684.553859685476",
+    "refundedTxs": [
+      "0x8ed861bb32db6090cf3dc4e51576b47cb63dea9b902df028e37ca33af59f318e",
+      "0x429900cf6bb8f4872a3553306f0555db485e3eafa46bb4a36893a957079e446b"
+    ],
+    "totalClaimRaw": "31330628824325428"
+  },
+  "0x244fe02fbcf4db4ad96063b161f00e444fc54011": {
+    "totalClaim": "55081.066544223359",
+    "bought": "53807.63739089857",
+    "gasRefund": "1273.429153324789",
+    "refundedTxs": [
+      "0xe4de2ef3aa48832457e1164bc80d6b43ed35f98f216d2199a728914964fd7300",
+      "0x95fd0cf04416685bf323f019c837c812a0077e12aebb01d9e6e114612cf404df"
+    ],
+    "totalClaimRaw": "55081066544223359"
+  },
+  "0x2173948d935857564805a48b9c878da29fae380d": {
+    "totalClaim": "17542.301416940649",
+    "bought": "17002.966953090704",
+    "gasRefund": "539.334463849945",
+    "refundedTxs": [
+      "0xb47c48db33639966b74663bdd2808d41870001a7ae814a0296d7889b6bab90df"
+    ],
+    "totalClaimRaw": "17542301416940649"
+  },
+  "0x29fb08a81867d8f61bce689d2dc366687291e747": {
+    "totalClaim": "18640.640768660886",
+    "bought": "17450.880044783039",
+    "gasRefund": "1189.760723877847",
+    "refundedTxs": [
+      "0xee11df0965f0ca8ac11f45f97cb3787f89158842b1bda762a941240f545c5b80",
+      "0xbfa0e697469122dd283255d6415c181740ec9df81ea82510201d4e568b4738ae"
+    ],
+    "totalClaimRaw": "18640640768660886"
+  },
+  "0x29aff93c997bd45da5bc5eb6d95476be80e35fcd": {
+    "totalClaim": "29189.526501986681",
+    "bought": "28578.451562089729",
+    "gasRefund": "611.074939896952",
+    "refundedTxs": [
+      "0x64f471ae1f1cd57c9589afcb95d201d2173b8d97dcf3194fcde07c751e61292d"
+    ],
+    "totalClaimRaw": "29189526501986681"
+  },
+  "0x23257dbb57c69b9334a2f26615dd0e086637964a": {
+    "totalClaim": "80897.892920690387",
+    "bought": "79406.332348809741",
+    "gasRefund": "1491.560571880646",
+    "refundedTxs": [
+      "0xa03e40e4b74e6c5d755cfb329f75cc50a23367f3c353b778f1649f8f15d8a1c6",
+      "0x908695ae86261752d7881e6deb4b0c8691597aadb910a3073a4f364f796d97c9"
+    ],
+    "totalClaimRaw": "80897892920690387"
+  },
+  "0x289c1a136eeab35fb96fd1a5823ee350ee15cd55": {
+    "totalClaim": "84308.242743507328",
+    "bought": "83654.791716602541",
+    "gasRefund": "653.451026904787",
+    "refundedTxs": [
+      "0x2f710481b7028b11a054c95d67b3c28b6366ca15094c96b357d30ee95428b7ed"
+    ],
+    "totalClaimRaw": "84308242743507328"
+  },
+  "0x2f3670747f374e4fc0e9de5769a7167937496e19": {
+    "totalClaim": "16822.380797195739",
+    "bought": "16005.435690381631",
+    "gasRefund": "816.945106814108",
+    "refundedTxs": [
+      "0xd19c2008f44e3301e6e3ebe36897ab0b8d76797ca40065d2b0f19b7e4ce077ec"
+    ],
+    "totalClaimRaw": "16822380797195739"
+  },
+  "0x2281bb8de864ee1afefc026fb022c8bc2fc9ff3d": {
+    "totalClaim": "9221.395249694972",
+    "bought": "7849.939971989154",
+    "gasRefund": "1371.455277705818",
+    "refundedTxs": [
+      "0x20c5f8f799538aae1fc8b9d08f0c70eb9c1e7fadece17985709433d95fca7279",
+      "0x3d052a9315de20640f20ce3f50f1283813f649fe47c592415ae6be1e4e0bd262"
+    ],
+    "totalClaimRaw": "9221395249694972"
+  },
+  "0x2dee20e1c217da40086fc2427567307ea9353b45": {
+    "totalClaim": "13716.284223522872",
+    "bought": "13000.0",
+    "gasRefund": "716.284223522872",
+    "refundedTxs": [
+      "0x1752b74ebcdba257942402981317b945ca0f65dfe59ff80754778c2114e686dd"
+    ],
+    "totalClaimRaw": "13716284223522872"
+  },
+  "0x2ee66b4d036376e86cef87f450f87f37781fab88": {
+    "totalClaim": "26428.368977368023",
+    "bought": "25691.458240481628",
+    "gasRefund": "736.910736886395",
+    "refundedTxs": [
+      "0x15e14114950bfcfaa18350c370c9e570fb775c15db482aa64b58ed6ddd635da3",
+      "0x801cce925c3b9630b4ff7b2984f42c57b024fff01edf9537b754d2da51bb8228"
+    ],
+    "totalClaimRaw": "26428368977368023"
+  },
+  "0x237ec64cc27196f6a4c16abdbb558b4c518400c2": {
+    "totalClaim": "40430.443087792483",
+    "bought": "40019.879807588205",
+    "gasRefund": "410.563280204278",
+    "refundedTxs": [
+      "0xd5b1c3f45b1a794b59854503acb1fba9a7015fb46e855b0b69bfb4e1951bb99d"
+    ],
+    "totalClaimRaw": "40430443087792483"
+  },
+  "0x26f43e511ac2045cddf15332081f297ac539641c": {
+    "totalClaim": "12166.843759932426",
+    "bought": "11310.954373133157",
+    "gasRefund": "855.889386799269",
+    "refundedTxs": [
+      "0xa4f553d70c75c6b59da0ff00b877a1c6cd36fd7eb282cefa153215671975d7ed",
+      "0x4b1d3f103bac7d4b53624f07a4bd00cc1680c74c1c012d2094d082f73ea75e65"
+    ],
+    "totalClaimRaw": "12166843759932426"
+  },
+  "0x2bcb9b6927333d6c078500a7c6e546b209eca3ff": {
+    "totalClaim": "33840.644813826657",
+    "bought": "32906.881708635488",
+    "gasRefund": "933.763105191169",
+    "refundedTxs": [
+      "0xacafe7fb244adefc066ccf566a88c7e21126fac636853cdffbe975b736151de7",
+      "0xbe4be2af281ac03ca01fb764a336305060c25486137c0b40261de1ac03fd14bb"
+    ],
+    "totalClaimRaw": "33840644813826657"
+  },
+  "0x2d42213d8e6328cff4644921b54f121ec6b5ec62": {
+    "totalClaim": "13374.354800917877",
+    "bought": "12824.233647790933",
+    "gasRefund": "550.121153126944",
+    "refundedTxs": [
+      "0x1226abdeea071f9ec16d4837c23f0c41091180e5019825a9ae50ccfb1e0e0d6b"
+    ],
+    "totalClaimRaw": "13374354800917877"
+  },
+  "0x236c2b432044da8c93d366462fb140239dc17d25": {
+    "totalClaim": "13962.292265531632",
+    "bought": "13369.024355296692",
+    "gasRefund": "593.26791023494",
+    "refundedTxs": [
+      "0x5b4b012cd6ce84874ce8e064c6bd78bdb2b3c83e1a775aa7d4fc5e6bc0c486e0"
+    ],
+    "totalClaimRaw": "13962292265531632"
+  },
+  "0x23cb1d6a25d68205f6a3e3639b9b4f7abab365e7": {
+    "totalClaim": "18986.877798338285",
+    "bought": "18464.032929977256",
+    "gasRefund": "522.844868361029",
+    "refundedTxs": [
+      "0xe5c17307e9fa1cbb1faed52dd34b80e5677cf7c37cf9dacac874866717309147"
+    ],
+    "totalClaimRaw": "18986877798338285"
+  },
+  "0x28ed88c5f72c4e6dfc704f4cc71a4b7756bc4dbc": {
+    "totalClaim": "374726.137954977602",
+    "bought": "373512.307267511394",
+    "gasRefund": "1213.830687466208",
+    "refundedTxs": [
+      "0x2d944b53200257f8f434e0031b7cac4ad73aec665316e10b75de36a03e002a10"
+    ],
+    "totalClaimRaw": "374726137954977602"
+  },
+  "0x2030f32bc08f51c91f5c0f6b3a906fc188da520c": {
+    "totalClaim": "26334.542903103135",
+    "bought": "24010.013782445158",
+    "gasRefund": "2324.529120657977",
+    "refundedTxs": [
+      "0xd1f1b0bf80b70ea8d56bd2f28e295640ceb3000ba48a5ed9ac0762f5d35432a9",
+      "0x364c2f3c8102b2c19f50cf57f08ccd5b695509e48a190d8cefcc26f9d782ecb4"
+    ],
+    "totalClaimRaw": "26334542903103135"
+  },
+  "0x29f777cf8a97895d20098c250cadb8270cc12355": {
+    "totalClaim": "14255.630634178395",
+    "bought": "13130.986033167706",
+    "gasRefund": "1124.644601010689",
+    "refundedTxs": [
+      "0xd8ac43b132ac8d3478b0bce2ac611f875b3566fdfa40de7ab8bd533103dc28b0",
+      "0x7d6086115e13f0ccb597e78e9b23e88c14911f9268fec11b31136d0797108334"
+    ],
+    "totalClaimRaw": "14255630634178395"
+  },
+  "0x290789aed2d6fae51191bce9cce498d0c336dd89": {
+    "totalClaim": "35620.948558390411",
+    "bought": "34993.43385575013",
+    "gasRefund": "627.514702640281",
+    "refundedTxs": [
+      "0xaeaa2881f30b592c368c4b7bff71cfc8a44c0af6893a13c048f1f1c3a7b67719"
+    ],
+    "totalClaimRaw": "35620948558390411"
+  },
+  "0x25ee148c4243af994a1ea0efa1948c4e0489a957": {
+    "totalClaim": "7077.482849392914",
+    "bought": "6407.091285075561",
+    "gasRefund": "670.391564317353",
+    "refundedTxs": [
+      "0x67e61d6b37cdfec325f0792f1f05ba007b775a60edda8ee8f5aea68bc2ae73b1"
+    ],
+    "totalClaimRaw": "7077482849392914"
+  },
+  "0x2f74262c865f5cf6bd83d6f4d3f5034529f6dcd2": {
+    "totalClaim": "19075.946896610451",
+    "bought": "18507.261701332378",
+    "gasRefund": "568.685195278073",
+    "refundedTxs": [
+      "0x56a76d7f7a3ab21bb2c78be3ed0ce96f117ef171d8a6624b2c36acbcc68ef597"
+    ],
+    "totalClaimRaw": "19075946896610451"
+  },
+  "0x2c2f3d8e6ec64ec0d0c60d2c3a91a32f05f6e04d": {
+    "totalClaim": "21800.18165832731",
+    "bought": "21313.360643283244",
+    "gasRefund": "486.821015044066",
+    "refundedTxs": [
+      "0xac6160a961f3966469d7473f2e0b55ce02d34f42b85ce18a4841d9d0acb9b1dd"
+    ],
+    "totalClaimRaw": "21800181658327310"
+  },
+  "0x2a28f5b0b063d1da41e8b3d0e0ab3b5cbb3e7c63": {
+    "totalClaim": "87824.763807573826",
+    "bought": "87308.412997173368",
+    "gasRefund": "516.350810400458",
+    "refundedTxs": [
+      "0xd2a37b8e250fd881b09258c1848440a033e0bfe9c68eff2e34c39729bc54e2f0"
+    ],
+    "totalClaimRaw": "87824763807573826"
+  },
+  "0x2b49ce21ad2004cfb3d0b51b2e8ec0406d632513": {
+    "totalClaim": "104091.70645561342",
+    "bought": "100000.0",
+    "gasRefund": "4091.70645561342",
+    "refundedTxs": [
+      "0x8ca69a9debf569a7679ace8f4855aae00438f2c40f01bc656bac086d6170af47",
+      "0xef3c92bea1b419d4d42e0f608f718ebacd1938d1d036d4a2ca2ae97dee447203",
+      "0x617d29875119a5bcd429c885ebb5aa349f4efe16159353677d2c7e7db102d15e"
+    ],
+    "totalClaimRaw": "104091706455613420"
+  },
+  "0x2a6145a40b07fbfdd8b2333b50f82f3aefd593f6": {
+    "totalClaim": "35955.001201370934",
+    "bought": "34000.0",
+    "gasRefund": "1955.001201370934",
+    "refundedTxs": [
+      "0x162a3ba8b184af71fdbf33fd51d7d8d826210c3d1a7bc2d37c937b75b17692c0",
+      "0xf222f71836b90d3785db9a23dd91576504531543cf70caaef9232c4ebf38d907"
+    ],
+    "totalClaimRaw": "35955001201370934"
+  },
+  "0x2132ac2ad4ab01c177deb6724ec82537a0ab97e3": {
+    "totalClaim": "27611.621264787002",
+    "bought": "24996.236770207748",
+    "gasRefund": "2615.384494579254",
+    "refundedTxs": [
+      "0xe4b4372bfcd800ebb5627b6f052eb9a01cf0f9b74a524478e0c6694e5ed2ea93",
+      "0x8c9b3c4ea0c2ca2dce1d03124a7e14eac6ee2e3230240010bdce6d38ca409cc6",
+      "0xb2a5c4ffedaa4ddfda262c5867df85cc52e114e1c7f5ec84baa196a04293635d",
+      "0x01771153755ace5a76817f529693c1d888528d45b17efe12028711b03cab0741"
+    ],
+    "totalClaimRaw": "27611621264787002"
+  },
+  "0x26bc042e5b75727e175139cd5da47660cb9dcbfd": {
+    "totalClaim": "23212.043458048316",
+    "bought": "22520.119286761862",
+    "gasRefund": "691.924171286454",
+    "refundedTxs": [
+      "0xc6379f911ef33c331de048955eee28d2279d5e8623afc6a2d8e3fb55a2e46cb4",
+      "0xfeff7901ab4d002ea355cc3462d4db5d7a2e0617f8c5e5f29ee5122061cd1bb9"
+    ],
+    "totalClaimRaw": "23212043458048316"
+  },
+  "0x2b0666f128374ce8f30d7560bdaf2bc14e079da8": {
+    "totalClaim": "22531.955208284088",
+    "bought": "22054.859265904649",
+    "gasRefund": "477.095942379439",
+    "refundedTxs": [
+      "0xae46ccbc2fe8ec664d34a18978d41ab1c11a562e7f1713d59ff91efde9cc5637"
+    ],
+    "totalClaimRaw": "22531955208284088"
+  },
+  "0x20997325098692337a03961317ebf912bf913b65": {
+    "totalClaim": "55924.813717955074",
+    "bought": "55094.797489382924",
+    "gasRefund": "830.01622857215",
+    "refundedTxs": [
+      "0xfb353f657d06e3322d22e5d8a46dee71a7e17184c3478be4a2743381e771c2dc"
+    ],
+    "totalClaimRaw": "55924813717955074"
+  },
+  "0x274fb5e71b1824fce44827d0aea33a9cd53b8a63": {
+    "totalClaim": "4976.308229909037",
+    "bought": "3467.60453271866",
+    "gasRefund": "1508.703697190377",
+    "refundedTxs": [
+      "0xd321acddc801bded2abd6097455aa523c6fd76b0c1747dff4088467238466d2f",
+      "0xb0bb8f4a2075a8d69a6160498a24252eeecdc8fe4f78a1c22263346e08ff58d5"
+    ],
+    "totalClaimRaw": "4976308229909037"
+  },
+  "0x25954b95ea02df586e07688de9543eea5bae31d7": {
+    "totalClaim": "31629.859307651228",
+    "bought": "30875.002028954993",
+    "gasRefund": "754.857278696235",
+    "refundedTxs": [
+      "0x86e683baa2e9be71251a181494dcf4ff22ff1f28a9d6b5eb282b33edb80b046f"
+    ],
+    "totalClaimRaw": "31629859307651228"
+  },
+  "0x201b5abfd44a8f9b75f0fe1bae74cdac7675e54b": {
+    "totalClaim": "558374.865262414296",
+    "bought": "555474.360491424669",
+    "gasRefund": "2900.504770989627",
+    "refundedTxs": [
+      "0x71ae8dc6b43c4aa12f2ec967351d0172bc5ab603ae8a365dfdc624cf87d99c03",
+      "0x9cb807a6c6afc113a174bb6147e08a34182f0b5c5efcf9701bef6ba4e0932649",
+      "0xd2e505b46dccd2da2bd1b12150da664a920a531932123c469d704ef1b6fdf3c7",
+      "0xec1bed6cfc4368a9acecfbfc65842bafc743e248ddabfaebc34a0a88083d30ea",
+      "0x8428132642b1c2a7fa8d2edec7ece9836a9353453b700c9b1115f78ac7016082"
+    ],
+    "totalClaimRaw": "558374865262414296"
+  },
+  "0x2d0c3044bf148a1897424ca23449bd68e49ee239": {
+    "totalClaim": "91048.954340536073",
+    "bought": "85956.795417173538",
+    "gasRefund": "5092.158923362535",
+    "refundedTxs": [
+      "0x6d69f5d3fc3b0fa8a06cd01f93d2d3d41b6c2ac5ce08d0d66cd102891dc67c2b",
+      "0x7c75f4abeef649057b82dd62c9bd651816d0fcc65317479d694ab5ecfb7cd537",
+      "0x3a927305f4ca8d3c65850e8e7f6aa7950ac4ee2a3c8c85b063c8bba20f4694dc",
+      "0xcf26866f126feac7fc75d0cb612a0eef1f01cc3e1b653d26cb3d5e81e6cc7b5f",
+      "0x1e678d4d9c3d792e99f716f89e5681b02e44d4e44599b3f7834190b956955dd4",
+      "0x926db075d016e97ca4d6d5a29929b43f0c0793b33f9182448ffe858d874da17a",
+      "0x18dc0d95ba1b758b463581d43babd5f4ffd2029b58fb4dade9e56736f2a01a21"
+    ],
+    "totalClaimRaw": "91048954340536073"
+  },
+  "0x26d1e86560b3196d40cb6e4b2eb52e1e87b4066f": {
+    "totalClaim": "3005.39994344048",
+    "bought": "3005.39994344048",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "3005399943440480"
+  },
+  "0x22a1f944f412c3ea51ad108275c9979f0b02a739": {
+    "totalClaim": "23827.293006422007",
+    "bought": "23431.891574723979",
+    "gasRefund": "395.401431698028",
+    "refundedTxs": [
+      "0x062340ec2ea5493029d2ff34b0f8d3224cc5977ca9991651aa734ee4896905bc"
+    ],
+    "totalClaimRaw": "23827293006422007"
+  },
+  "0x2ca40605844f48c60431e2820ffa84526e795f9f": {
+    "totalClaim": "61307.241158459422",
+    "bought": "59637.231904093676",
+    "gasRefund": "1670.009254365746",
+    "refundedTxs": [
+      "0x4e062499801bdc148c1ee1e4657a8c5db9ec5093f20de722e58e93c037390283",
+      "0xe91ed535e187a646321be5d26d2bc2f954b86abd4661d8c26c515d883f037c1e"
+    ],
+    "totalClaimRaw": "61307241158459422"
+  },
+  "0x2386b340d46d85057e2a6ec7b93f39b10f44cbe9": {
+    "totalClaim": "160802.363185317712",
+    "bought": "159152.953329231131",
+    "gasRefund": "1649.409856086581",
+    "refundedTxs": [
+      "0xbe86f64c257abad6500d354056b8a0f7bebe99f7f3dc910c2cd6dbe4a6b3c734"
+    ],
+    "totalClaimRaw": "160802363185317712"
+  },
+  "0x2784ab7cf677dd88adbf0cf8e7062fc9dbff5d25": {
+    "totalClaim": "11278.186356133779",
+    "bought": "10297.85222795685",
+    "gasRefund": "980.334128176929",
+    "refundedTxs": [
+      "0x70f7bb0fe83b106a890cb393f4c2ca82b91d537aa06d6bccbcb305376e64f439"
+    ],
+    "totalClaimRaw": "11278186356133779"
+  },
+  "0x2a8600bbdaab254a2f8a8e00912799295c3dd601": {
+    "totalClaim": "451922.322912189808",
+    "bought": "450422.486747278261",
+    "gasRefund": "1499.836164911547",
+    "refundedTxs": [
+      "0x4a2292d6bed8a44063aab13bcabbd036053ef6450ea730517fcf013d987eceef"
+    ],
+    "totalClaimRaw": "451922322912189808"
+  },
+  "0x2c8e10eac50cff25e2f71b671dd9a0c4324ada0c": {
+    "totalClaim": "19650.86231564535",
+    "bought": "18415.69390907726",
+    "gasRefund": "1235.16840656809",
+    "refundedTxs": [
+      "0xcf0c43297160596e0ce92438b15513a0dc819f5d174ae9f0d5429fb87f83885c"
+    ],
+    "totalClaimRaw": "19650862315645350"
+  },
+  "0x272b48a578075d3b63d7a2ce8d9f6fd55fc84bb5": {
+    "totalClaim": "14810.736764779058",
+    "bought": "14173.519581464054",
+    "gasRefund": "637.217183315004",
+    "refundedTxs": [
+      "0x5a816d0a5a8b22bc7bd2bc4c4b245f9c0a48ff7addad7c7a464c391de21b3f5b"
+    ],
+    "totalClaimRaw": "14810736764779058"
+  },
+  "0x29dd604a8c8c484ad7da59968cd9000cab660d02": {
+    "totalClaim": "57028.390730467035",
+    "bought": "55678.91163234865",
+    "gasRefund": "1349.479098118385",
+    "refundedTxs": [
+      "0x11c08ade48c790a555faa5c279991678a8e1657119127e1e87f7d53bf435c8b8"
+    ],
+    "totalClaimRaw": "57028390730467035"
+  },
+  "0x2ad7df126372fc2648df7876a9ae5065c9bd2118": {
+    "totalClaim": "40970.470725898293",
+    "bought": "40004.29455009392",
+    "gasRefund": "966.176175804373",
+    "refundedTxs": [
+      "0x50abdf386c8ff03683576abfa1411cfbc353926b20548b99c7c4c166fb0d2876"
+    ],
+    "totalClaimRaw": "40970470725898293"
+  },
+  "0x2bb417abdbf3bed6de3151a72a44d8444242323c": {
+    "totalClaim": "37332.272597087907",
+    "bought": "36669.160672044412",
+    "gasRefund": "663.111925043495",
+    "refundedTxs": [
+      "0x2e7c8e9b1eefd379ce214993480fc1e41b2681d39c78cef32b0556263f2295ef"
+    ],
+    "totalClaimRaw": "37332272597087907"
+  },
+  "0x24ca41860adad0371213e14c0a8c74e22180ff3d": {
+    "totalClaim": "7471.064037297804",
+    "bought": "6895.842230579753",
+    "gasRefund": "575.221806718051",
+    "refundedTxs": [
+      "0xca93c2faa59ffea3456721f078bb2bfb1f3a4ee11a5b7d8d802c0efd5f7cbbf0"
+    ],
+    "totalClaimRaw": "7471064037297804"
+  },
+  "0x26cabc7528854005635a7f29c6929a691bbd07ef": {
+    "totalClaim": "3859.564347236711",
+    "bought": "3436.371019185333",
+    "gasRefund": "423.193328051378",
+    "refundedTxs": [
+      "0x86e02af8b06b06b7c95ef93b9330744ae303bfac230e6193f3bf0a4024d303c2"
+    ],
+    "totalClaimRaw": "3859564347236711"
+  },
+  "0x296897c5b419c2217719dc699d244e595d675d07": {
+    "totalClaim": "11592.739558269284",
+    "bought": "11131.982518026127",
+    "gasRefund": "460.757040243157",
+    "refundedTxs": [
+      "0x0f63773ed4b239bea42a55c46a91a7a9a2e63f5557dbde65dc6c771823b3e43a"
+    ],
+    "totalClaimRaw": "11592739558269284"
+  },
+  "0x2bc52d804490fabc71e49a2eb9da37c6516b97fc": {
+    "totalClaim": "50282.081199366304",
+    "bought": "49757.128987885691",
+    "gasRefund": "524.952211480613",
+    "refundedTxs": [
+      "0x71fa31122a5c8d2d1132b5655d014587af06835aa6f74cd5223eb67c1adeaff2"
+    ],
+    "totalClaimRaw": "50282081199366304"
+  },
+  "0x293d9eab4a6b6dcd263d71e74c1bd7d83fef5063": {
+    "totalClaim": "20139.047692449781",
+    "bought": "19233.257527633182",
+    "gasRefund": "905.790164816599",
+    "refundedTxs": [
+      "0x3c1a7d6e93082c6902996f653cfe8cde7ba3737c1c1549d1496a3e8547db87f4"
+    ],
+    "totalClaimRaw": "20139047692449781"
+  },
+  "0x2b611ea087700cf2582be54bd36f29b17a71e937": {
+    "totalClaim": "22588.85683034109",
+    "bought": "21981.425274873605",
+    "gasRefund": "607.431555467485",
+    "refundedTxs": [
+      "0xec2b79253168f9c67121625d2366bf70c9568a758144bfb1897a9d8e792e3322"
+    ],
+    "totalClaimRaw": "22588856830341090"
+  },
+  "0x2769dcf7b37bf6ee5149b4860968b14328e9c831": {
+    "totalClaim": "7958.165437214184",
+    "bought": "7404.927218899815",
+    "gasRefund": "553.238218314369",
+    "refundedTxs": [
+      "0x848713f1919341427c570ef0e0e0a15866607df3c15902b4c6e0a531eec4dbb2"
+    ],
+    "totalClaimRaw": "7958165437214184"
+  },
+  "0x29546e006d49b07351bca26701e473facdcfc087": {
+    "totalClaim": "38570.040113683006",
+    "bought": "37631.312124691258",
+    "gasRefund": "938.727988991748",
+    "refundedTxs": [
+      "0x44cf239adceaf9d3fdeca61d60482c6f4fd6bf0d0e4b611c60a963a72b8663a9"
+    ],
+    "totalClaimRaw": "38570040113683006"
+  },
+  "0x286ac6c8237a719d1c7117e1ef8c7cd8719e7412": {
+    "totalClaim": "76692.53953409158",
+    "bought": "75045.569531424252",
+    "gasRefund": "1646.970002667328",
+    "refundedTxs": [
+      "0xc130adb649eb21a6b036a81d8cb9c9fc1acd90a4c8fcf6a504e8da86eef001c8"
+    ],
+    "totalClaimRaw": "76692539534091580"
+  },
+  "0x2118b4d853d7e5c031a7bb9b0f92d499bddf48e1": {
+    "totalClaim": "54854.556709209024",
+    "bought": "52176.844809251486",
+    "gasRefund": "2677.711899957538",
+    "refundedTxs": [
+      "0x8049070f090cd8c1d221e9007eecde6a34132696394eaf0cf01dcfea0d355335",
+      "0x88427c0b4ce0a31810192ad5e316ccba611705769afe35b50e9b774f27e5b06c"
+    ],
+    "totalClaimRaw": "54854556709209024"
+  },
+  "0x2821581fe39a58177a0533f7ae378f7c56ebaaa7": {
+    "totalClaim": "45881.494065596669",
+    "bought": "44646.325659028579",
+    "gasRefund": "1235.16840656809",
+    "refundedTxs": [
+      "0xbcbd626f21f2e771fb063fa1548611c684e9f3b59ce749f65d31a572a282f5e1"
+    ],
+    "totalClaimRaw": "45881494065596669"
+  },
+  "0x225711a28e0543a48417245c0b502e75d8de4eaf": {
+    "totalClaim": "9360.608261742017",
+    "bought": "8629.970501852523",
+    "gasRefund": "730.637759889494",
+    "refundedTxs": [
+      "0x224f53ce64a02e1c1936df97d59c0a66bb2e692721508b09e5e6f40e2d8f330c"
+    ],
+    "totalClaimRaw": "9360608261742017"
+  },
+  "0x2ae9c12d8356f11d1be6c4e91fe64c10783d42e5": {
+    "totalClaim": "34559.911887289355",
+    "bought": "30349.242675458919",
+    "gasRefund": "4210.669211830436",
+    "refundedTxs": [
+      "0x99488bd969632985ba3fa955bd7a2a7ab8f11fd429b8715d1e19ae3c11e5c527",
+      "0xf3ca03af15d9ccd3610c435e899e439c8d35d862cad01f683e89a185596afa6d",
+      "0x3a5b2cd4441e0c34150cf303cd8d2621a622ee8babbed85d7d8c5979133c8b6a"
+    ],
+    "totalClaimRaw": "34559911887289355"
+  },
+  "0x2ea02c3971e8a04577939832a88d4c9c4ec2e98d": {
+    "totalClaim": "16984.298862808162",
+    "bought": "15996.16413755369",
+    "gasRefund": "988.134725254472",
+    "refundedTxs": [
+      "0x43965b1a0963f5ab4fc0cc64fd86a474f600f6d7f071c2f8bc6bf5a6cde904f4"
+    ],
+    "totalClaimRaw": "16984298862808162"
+  },
+  "0x274d23dc91996cfaf8f14082d0b9692c312cd30f": {
+    "totalClaim": "13913.139870732714",
+    "bought": "9992.2437503196",
+    "gasRefund": "3920.896120413114",
+    "refundedTxs": [
+      "0x5d528f255325fc6794a4d8020e5ef3b02446c25625368f8b93531fd31d2ec83f",
+      "0xbc5bb63874b0fbe512e7a4098e6ba9d470a4ee69836edc567e1c03250745458c",
+      "0xf9e151258643f3afe34820e9c519ca42e4c8a646c22eba3690d5eef8966eb998"
+    ],
+    "totalClaimRaw": "13913139870732714"
+  },
+  "0x25738f692c9a743c431fe7cdf5021a6d3beead95": {
+    "totalClaim": "81074.905715197683",
+    "bought": "79806.799484454444",
+    "gasRefund": "1268.106230743239",
+    "refundedTxs": [
+      "0x8f47ed77da68b8ef5ccd735e58f8fe33e8759f0119df092eeeac61e99dfd60a5"
+    ],
+    "totalClaimRaw": "81074905715197683"
+  },
+  "0x2de92f42391e9d26a6bffbddbeaf1ccc7e492237": {
+    "totalClaim": "8776.69722534079",
+    "bought": "7810.521049536417",
+    "gasRefund": "966.176175804373",
+    "refundedTxs": [
+      "0xa50d57b041491928c0e19e96bc02a5cbd56f5e386b1f2faafd28dbf435b0e0e0"
+    ],
+    "totalClaimRaw": "8776697225340790"
+  },
+  "0x29d78f315b4f612a500cc3bf4d7d6d1d64218e58": {
+    "totalClaim": "17385.119277986893",
+    "bought": "16176.710246248747",
+    "gasRefund": "1208.409031738146",
+    "refundedTxs": [
+      "0xde095cfe3fbc4d055bda4b451ba4f134d2fff71a2892c57611cf8ead5a6b9b4f",
+      "0xcac535237622e775ba9c5147bb4906d47ff8edc6d290c9b092c2d51d6374fe5f"
+    ],
+    "totalClaimRaw": "17385119277986893"
+  },
+  "0x2980cdaa6df94ed9ac630784a68a86477a4480cb": {
+    "totalClaim": "8372.318860278238",
+    "bought": "7713.562376775257",
+    "gasRefund": "658.756483502981",
+    "refundedTxs": [
+      "0x19494cb6e1040a97d4cc00754945c25f02c9099a92dfebe02974e712c38a7455"
+    ],
+    "totalClaimRaw": "8372318860278238"
+  },
+  "0x2ecd36fad6d4e68a384e1928c252b03c6370cd90": {
+    "totalClaim": "12243.348831578006",
+    "bought": "11304.620842586258",
+    "gasRefund": "938.727988991748",
+    "refundedTxs": [
+      "0xd65c4cb7b90b092430564b30b1fbbf7fd466f7ee673704da0113305e218472a5"
+    ],
+    "totalClaimRaw": "12243348831578006"
+  },
+  "0x2fb965447d395cd6dd9ac004e997099a7697b0bd": {
+    "totalClaim": "42118.15626674303",
+    "bought": "41112.729183796605",
+    "gasRefund": "1005.427082946425",
+    "refundedTxs": [
+      "0x986d2d8b102350436e4c059556a3cf0bd8f69c19f3e5b3abee2ca18aa6174111"
+    ],
+    "totalClaimRaw": "42118156266743030"
+  },
+  "0x2401f38b7258e8cc75ea0cf6e23d9a632cb96cbe": {
+    "totalClaim": "108603.440211467794",
+    "bought": "105955.039142577911",
+    "gasRefund": "2648.401068889883",
+    "refundedTxs": [
+      "0xf318e795a739988d8448593d9f7026881b84095e040dfa3462aa8f1f23205a87",
+      "0x414b01b9a806210e42a21f939c5ef5f1d5e0f8a49eaa40c41923e34369fe675c"
+    ],
+    "totalClaimRaw": "108603440211467794"
+  },
+  "0x28278e1dfff99f8afc86abd9dd86899a16d09839": {
+    "totalClaim": "19761.192457968829",
+    "bought": "18663.26498546386",
+    "gasRefund": "1097.927472504969",
+    "refundedTxs": [
+      "0x2c67dfce31752dc8d646edb3f04268f31dabcd84ba5038480c1bae222b144b82"
+    ],
+    "totalClaimRaw": "19761192457968829"
+  },
+  "0x299ace548ef2885f8e38ec10c55b052d1cdc121e": {
+    "totalClaim": "19708.784762836426",
+    "bought": "18610.857290331457",
+    "gasRefund": "1097.927472504969",
+    "refundedTxs": [
+      "0x75a0007c7270f56b8b813b7172a68ef26901764e1d350fab4743d0785d5d24cf"
+    ],
+    "totalClaimRaw": "19708784762836426"
+  },
+  "0x26026fec6af3404a2d00918891966330bc2f36c8": {
+    "totalClaim": "254810.167223927339",
+    "bought": "253309.0",
+    "gasRefund": "1501.167223927339",
+    "refundedTxs": [
+      "0x414c68be1f66eff666a31bc0398e8cb606c21228ef1d6a6e31913b77173a0c63"
+    ],
+    "totalClaimRaw": "254810167223927339"
+  },
+  "0x2f8899a45af336f38f795097c8d61f65bfdceed6": {
+    "totalClaim": "11409.585449767096",
+    "bought": "10654.606828449654",
+    "gasRefund": "754.978621317442",
+    "refundedTxs": [
+      "0xf25bab274fc4052e4d923e531a16f0498c55954ef53464afd09e1f0281918891"
+    ],
+    "totalClaimRaw": "11409585449767096"
+  },
+  "0x24e0faabf11b75c53528b613bbd07bf8955b6e58": {
+    "totalClaim": "33039.485371306546",
+    "bought": "29814.892756771575",
+    "gasRefund": "3224.592614534971",
+    "refundedTxs": [
+      "0x1aa5d3370640a53ebd1ab75dc2073a8389e63ac7d0233225595ec77793979968",
+      "0x49eeb98af8b54ab2d2bb7d6a089a97dfc9cc7e90c51d26ade17f62b9a7c16b36",
+      "0xc6450bf5a0e7220c4b39963ae8700094faf3f5803862ff71d71755e1a3f85c3e"
+    ],
+    "totalClaimRaw": "33039485371306546"
+  },
+  "0x2d3ff726873341ebc87095dd9c9660f5df3ecdd6": {
+    "totalClaim": "9020.774888865535",
+    "bought": "8354.328338630807",
+    "gasRefund": "666.446550234728",
+    "refundedTxs": [
+      "0x7a9fb691ec2e04314ca50ac30f1aeab14a9ee7ded83bfc7d19f2d2e2b937c148"
+    ],
+    "totalClaimRaw": "9020774888865535"
+  },
+  "0x2b96e690177e4ada38318e281defd048b1d59f78": {
+    "totalClaim": "74727.854999269054",
+    "bought": "74085.581315280263",
+    "gasRefund": "642.273683988791",
+    "refundedTxs": [
+      "0x72b542118157dd24815bf757d624682fcff9989131be48e593e0e8ed417d9079"
+    ],
+    "totalClaimRaw": "74727854999269054"
+  },
+  "0x2722f4be5dcb735752c8b2c5c7dba16b36972e76": {
+    "totalClaim": "32612.444112577271",
+    "bought": "30460.169334954031",
+    "gasRefund": "2152.27477762324",
+    "refundedTxs": [
+      "0xa3383d6ab848aa657c6a4f24414399c2ad65a9cfec3dbe876529dc43f70d5198",
+      "0xcf2b016f146b96a27d5155314f0a36ccebdc18848938bbb78d32cc2d4bce97bc"
+    ],
+    "totalClaimRaw": "32612444112577271"
+  },
+  "0x2504a804502afbf28245e02dc93fd36639a9f3fc": {
+    "totalClaim": "15000.0",
+    "bought": "15000.0",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "15000000000000000"
+  },
+  "0x2e6e21188cda157bbaf6f86b63a18be204a346ad": {
+    "totalClaim": "11824.099841082695",
+    "bought": "10589.343154580895",
+    "gasRefund": "1234.7566865018",
+    "refundedTxs": [
+      "0x2873eb2fc5f1e281bf76b52c49f63d02f22176b072ad588e2f80560c2ed58cb7",
+      "0xfd62fd134aeb657ef85a16010818a0f949d48bf0e60359b94abdfd592a349cd8"
+    ],
+    "totalClaimRaw": "11824099841082695"
+  },
+  "0x22310275a38f0c403177772ab8e53347942eb623": {
+    "totalClaim": "26427.179283699299",
+    "bought": "24437.258372447908",
+    "gasRefund": "1989.920911251391",
+    "refundedTxs": [
+      "0x1a6f90733d4e77408ceeef3140fad8c5109c8084be5385c318e18f4fe0b07aa7",
+      "0xd725c68a91084e0817fcd1dd6e8a9aa09c3ad13b4561aa521c4122173d378563"
+    ],
+    "totalClaimRaw": "26427179283699299"
+  },
+  "0x26b7eb97b9be22e96cdeabe53e6a6be8d5ed4a6d": {
+    "totalClaim": "42476.807976360284",
+    "bought": "41444.108379627171",
+    "gasRefund": "1032.699596733113",
+    "refundedTxs": [
+      "0x69e86ae1c29d9e7ca1473e311a0266a4442abded78e4239c56e7350084e6a025"
+    ],
+    "totalClaimRaw": "42476807976360284"
+  },
+  "0x255984e224942259140f722e745e611ca3701861": {
+    "totalClaim": "13522.349005826073",
+    "bought": "13062.245521668368",
+    "gasRefund": "460.103484157705",
+    "refundedTxs": [
+      "0x97436a3858ad2c61e61be9b1e03527eb491669b8896d58a0f98680615188058d"
+    ],
+    "totalClaimRaw": "13522349005826073"
+  },
+  "0x2fefb597aebfee18ab9e7905044cb98fee4f5f12": {
+    "totalClaim": "8567.345025769128",
+    "bought": "7164.77723077351",
+    "gasRefund": "1402.567794995618",
+    "refundedTxs": [
+      "0x6d005e9ba55563ac12904ab800f8946a5dbf160f6b0b4daa9028d9d2b2f1380e",
+      "0xec614d86f3be2d7be81bc892b5972762e1c083999f6c0808e00c57d9fbd8226f"
+    ],
+    "totalClaimRaw": "8567345025769128"
+  },
+  "0x22cd620226ea46ff812e21e4b213581c6c17c3ce": {
+    "totalClaim": "55472.27223408715",
+    "bought": "54357.875849494607",
+    "gasRefund": "1114.396384592543",
+    "refundedTxs": [
+      "0xfa4b1f2cbccc61f675f5e49a2a4f3eac2b8adb3e1cdb924ae8d747030e24a574"
+    ],
+    "totalClaimRaw": "55472272234087150"
+  },
+  "0x2c8a3d21c197797197cd590eb8ab2a0676dc648e": {
+    "totalClaim": "19194.341517301926",
+    "bought": "17946.656479278352",
+    "gasRefund": "1247.685038023574",
+    "refundedTxs": [
+      "0x3c55fc6a1619b99e4d7b0146240dfddd7878865cf36e0dedd690791bb1e7d12d",
+      "0xd8a51495d940b1fd1a809ae7f8088a8ba093c1ab2877e6636abb4fd976005ac5"
+    ],
+    "totalClaimRaw": "19194341517301926"
+  },
+  "0x26ce8f32260f05e91faaf4f26569703cf5c52373": {
+    "totalClaim": "87066.121128473939",
+    "bought": "85530.028274241751",
+    "gasRefund": "1536.092854232188",
+    "refundedTxs": [
+      "0x1dfa7c4d784b0a95e3445ad07c07abf095eee4b6c89de2ccf9d349710c1035ad",
+      "0x3d293d1f1f4a400c5e5c2ccdd1268c6666cfa080360297f4b87ba90371150f07"
+    ],
+    "totalClaimRaw": "87066121128473939"
+  },
+  "0x29f32adef3626b42494fa3cd1cd7cdfc3e9cce61": {
+    "totalClaim": "37679.875055172359",
+    "bought": "37679.875055172359",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "37679875055172359"
+  },
+  "0x232f62bbcbb6a8622b4b7ae286ed1152d40b514c": {
+    "totalClaim": "35270.239985431492",
+    "bought": "33000.0",
+    "gasRefund": "2270.239985431492",
+    "refundedTxs": [
+      "0x5b49f4191aab43bf6a8329610614c1b564e8e050a8e9c129dd4d674e5cb602fe",
+      "0x5bdae2316653aa3ea9812e501e9a47061ac37989e5fcbc9527c92c951ff3b1da"
+    ],
+    "totalClaimRaw": "35270239985431492"
+  },
+  "0x20f765df18e77422a9f10ab5aa26876cb9028103": {
+    "totalClaim": "21790.400037336743",
+    "bought": "20626.596916481476",
+    "gasRefund": "1163.803120855267",
+    "refundedTxs": [
+      "0xeec59452c222b70174bbbceec7974ebfa923c71fa044f8518f898496bb2aa62d"
+    ],
+    "totalClaimRaw": "21790400037336743"
+  },
+  "0x2c38adfd7a3726769f6754e511c6ac561f1af1c6": {
+    "totalClaim": "174483.958903650922",
+    "bought": "170981.294443901116",
+    "gasRefund": "3502.664459749806",
+    "refundedTxs": [
+      "0x27c96f60b14b1836464e618febd592e0a75c92a43c3ffa44030cfecc3ee781cc",
+      "0x93398f661720dd02e8c98f8bc7ea99ae70e85064a0cd8f66e81050db18d042be",
+      "0x2440fda769cd9a25d0b7eb9a58da39db418a0e7f75421ebb82a37521659c1a48"
+    ],
+    "totalClaimRaw": "174483958903650922"
+  },
+  "0x29aa0df2556c851c7de9a2634718c3b313d6df88": {
+    "totalClaim": "1290756.959820756651",
+    "bought": "1288088.798508727763",
+    "gasRefund": "2668.161312028888",
+    "refundedTxs": [
+      "0xe4402e6f6a697f94781201a13a78f6645fbb181e53750a3a86cc550440f890d8",
+      "0xba61bade2c2d70c3b831053987251f575a42a18330e9c378da55898452363b9f"
+    ],
+    "totalClaimRaw": "1290756959820756651"
+  },
+  "0x2544f859827a03b044b772b02d63f42ac2c1f096": {
+    "totalClaim": "486915.370626721588",
+    "bought": "483531.926981998515",
+    "gasRefund": "3383.443644723073",
+    "refundedTxs": [
+      "0x092ea3231361a99ee349e54b31b156bf9e9e9a21efd23de1e02247499e34a96d",
+      "0x117deee68397a0144f087cec53ab8e02fbce436e070eaef41828d9ca537fee7c",
+      "0xb57d5aad939cbcd728e60fd17c056b7d25bb6983b49b59170a80633c505e243d",
+      "0xfa4f904d84c719882b23f96583a916ac6ef39886eb7b019db08f2cb7e662ff15",
+      "0xb580f88704e647fc2179ddc8bbe2c5bf6f9637c9b704ec9db983f936b64b7679"
+    ],
+    "totalClaimRaw": "486915370626721588"
+  },
+  "0x2543f5a371fa9aedc33741519641b1bb9a7e94ff": {
+    "totalClaim": "22798.790468924574",
+    "bought": "21597.108850267885",
+    "gasRefund": "1201.681618656689",
+    "refundedTxs": [
+      "0xeab7a3b7bf2a51c1db650db5b73553a98b6827ad10f88a420021d8a5fe90f67c"
+    ],
+    "totalClaimRaw": "22798790468924574"
+  },
+  "0x209a2f251eb0fa2548cd59c53a06ee3a1b1d4d26": {
+    "totalClaim": "31411.481155376955",
+    "bought": "30209.799536720266",
+    "gasRefund": "1201.681618656689",
+    "refundedTxs": [
+      "0x2a48b8c9d0e9bc5e69b3fd8d50ab6a65a59a8c77b74dc2964a2728a51a8168f8"
+    ],
+    "totalClaimRaw": "31411481155376955"
+  },
+  "0x22a3df7e6b7d3cc1a022e213698ed20f91d9f73b": {
+    "totalClaim": "10155.893205855215",
+    "bought": "9440.461083749639",
+    "gasRefund": "715.432122105576",
+    "refundedTxs": [
+      "0x423d4ae6803a48306eccb13c9e947d2e4eafe0a5de8e4bc55a309a970560585c"
+    ],
+    "totalClaimRaw": "10155893205855215"
+  },
+  "0x22b79c38bfd98a304e94f282e1331d515d61d73d": {
+    "totalClaim": "14539.244999762997",
+    "bought": "13337.563381106308",
+    "gasRefund": "1201.681618656689",
+    "refundedTxs": [
+      "0x5a800903e46d1ff4bf67bd6fe4b6ac14ac5740c26459f7b327fe99e0001384c3"
+    ],
+    "totalClaimRaw": "14539244999762997"
+  },
+  "0x2e8c338a40c5dd1ca75271a586e45205bc562641": {
+    "totalClaim": "4340.431754826006",
+    "bought": "3903.50026384022",
+    "gasRefund": "436.931490985786",
+    "refundedTxs": [
+      "0xdd114dd65aa4f3be12bef8c5bcbd5cb0b4337b9a8b78f1c147a1b9e9417580b9"
+    ],
+    "totalClaimRaw": "4340431754826006"
+  },
+  "0x285cc68666e052c2475bcadc1d8ccadf56c5b351": {
+    "totalClaim": "73408.43350317337",
+    "bought": "72854.915991090573",
+    "gasRefund": "553.517512082797",
+    "refundedTxs": [
+      "0x91a4fa685b6f219b0dcdeb38b466955d2048d634679fa73653dda59e3dd127ef"
+    ],
+    "totalClaimRaw": "73408433503173370"
+  },
+  "0x2cc99afaf23aa95f03c4aa2989881aa1bf5f6ba9": {
+    "totalClaim": "7262.654786206039",
+    "bought": "6730.177821994034",
+    "gasRefund": "532.476964212005",
+    "refundedTxs": [
+      "0x3a76c04e4ddbbdffc6124c43077fc6982da75812d3dda0d8fd9898d525d7fedd"
+    ],
+    "totalClaimRaw": "7262654786206039"
+  },
+  "0x277b704cf008b1aa036c1b3a98bb3895eb185016": {
+    "totalClaim": "5652.125309163817",
+    "bought": "4750.831321829412",
+    "gasRefund": "901.293987334405",
+    "refundedTxs": [
+      "0x41e3a7e3f2dd29af48789a4127da0bd797fec1b3b5a72c657454d7ef31da24a6"
+    ],
+    "totalClaimRaw": "5652125309163817"
+  },
+  "0x248a973d64978c3501176ffd7fe62249bd83e877": {
+    "totalClaim": "8790.878904706709",
+    "bought": "8132.122421203728",
+    "gasRefund": "658.756483502981",
+    "refundedTxs": [
+      "0xd50e80bbfba662ce4fe1b6c7493c4a21f93de83689089677b31609fe697f43ad"
+    ],
+    "totalClaimRaw": "8790878904706709"
+  },
+  "0x2a61d792b2f164c2a9e258a2f0b8407d130baaa9": {
+    "totalClaim": "18175.494425402535",
+    "bought": "16847.002183671522",
+    "gasRefund": "1328.492241731013",
+    "refundedTxs": [
+      "0x9db8aefaae6f272255e20729ee2eb7c5b751e2b0f193427968ab41f54c1c8fa3"
+    ],
+    "totalClaimRaw": "18175494425402535"
+  },
+  "0x2bdfed98443908cb9c261f11819681f3cb65c45a": {
+    "totalClaim": "102815.997113796402",
+    "bought": "102815.997113796402",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "102815997113796402"
+  },
+  "0x2dde95472535c603b8e825e90c93d8eb2c846f79": {
+    "totalClaim": "27619.660283282734",
+    "bought": "26809.250737323139",
+    "gasRefund": "810.409545959595",
+    "refundedTxs": [
+      "0x285c074c93eaab8500e5d6d63bf233679badac0d2d23c9352853a05412f96c23"
+    ],
+    "totalClaimRaw": "27619660283282734"
+  },
+  "0x2b2d4a049eac8adf22d4f6a24ab44906669df904": {
+    "totalClaim": "54596.087198588961",
+    "bought": "53539.332006302928",
+    "gasRefund": "1056.755192286033",
+    "refundedTxs": [
+      "0x3b103495bb729fb7e7e2a2e7b00872338198f89ae88d423ed293031e19647afa"
+    ],
+    "totalClaimRaw": "54596087198588961"
+  },
+  "0x22871be5a81f8bba0e231015931019e79b6d67a0": {
+    "totalClaim": "9592.979596369062",
+    "bought": "8230.283903285547",
+    "gasRefund": "1362.695693083515",
+    "refundedTxs": [
+      "0xfa27d5877e4705e09ad606a69e3acd8c3bc86e37f9b5e64c7051be75c81d4a03",
+      "0x34d20c2ec0f2869c7faa10eefdb7e1d00ac83c4b560f00c6627669a105c3aed8"
+    ],
+    "totalClaimRaw": "9592979596369062"
+  },
+  "0x2e62174c79b893b4cfd12b9a3f9c1cca463297c5": {
+    "totalClaim": "9177.656767762347",
+    "bought": "8254.305331926377",
+    "gasRefund": "923.35143583597",
+    "refundedTxs": [
+      "0x7975813e0ab08259e80a139b48b71e18f8b008985c926edb2e471e2ad4c59aac"
+    ],
+    "totalClaimRaw": "9177656767762347"
+  },
+  "0x2d4f3e1862fbb635d8c9d1976eefa522dea5b26a": {
+    "totalClaim": "19303.192673623653",
+    "bought": "18757.473342271829",
+    "gasRefund": "545.719331351824",
+    "refundedTxs": [
+      "0x773783e2df97dc3765a4c6ff64745582524a73b9d39e9334cfdbc66f8983d774"
+    ],
+    "totalClaimRaw": "19303192673623653"
+  },
+  "0x24449d3d8aaa16a33af1a00977a55f762d6c1a34": {
+    "totalClaim": "26060.882620943142",
+    "bought": "25400.377680881576",
+    "gasRefund": "660.504940061566",
+    "refundedTxs": [
+      "0x85e734787981a9958d5a1de82612784b0cea9f6eb7389864427fd8611431d8db"
+    ],
+    "totalClaimRaw": "26060882620943142"
+  },
+  "0x2ed6cbbea79ad1c2cf9fe8c2b7935e354940dd9b": {
+    "totalClaim": "5646.019133853831",
+    "bought": "4635.477390478892",
+    "gasRefund": "1010.541743374939",
+    "refundedTxs": [
+      "0x0001ba5299a7b85a10b5a5279c0365ca49c81d04f3dfb0cac8616a42e5e75532"
+    ],
+    "totalClaimRaw": "5646019133853831"
+  },
+  "0x26ce6d0b20a1d86fda78a7c6a3b00b04b51d1270": {
+    "totalClaim": "33104.576425953893",
+    "bought": "29743.276251232515",
+    "gasRefund": "3361.300174721378",
+    "refundedTxs": [
+      "0xcd19406f71d62c89dbf006f6bfcf113707c3964eeabc43fe766e9923e476a65d",
+      "0x90b26ecb72cacec37eb1f2ba768788a9c1878fa0af3501aab9b3a56b94a99a78"
+    ],
+    "totalClaimRaw": "33104576425953893"
+  },
+  "0x2aa8899a4502ccc63a75f48eef06327e6a64ff19": {
+    "totalClaim": "5914.943026552284",
+    "bought": "3453.973933812254",
+    "gasRefund": "2460.96909274003",
+    "refundedTxs": [
+      "0x1580090d35f15e1f1b83789c8ffb15533bd50f2d7fc32352985b45d238c3414b",
+      "0xac63df67aaf303ddd8d0a62dc306e90dd9b3b9466e4e95d39c5dde2d3369ed83"
+    ],
+    "totalClaimRaw": "5914943026552284"
+  },
+  "0x2929d73388332c92e2cf93b894a32b0a07bd5586": {
+    "totalClaim": "0.648672972832",
+    "bought": "0.648672972832",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "648672972832"
+  },
+  "0x2a050db5ef975dbea2c2c15e4bcdb3541f6d56cb": {
+    "totalClaim": "54622.737100318455",
+    "bought": "53215.743044303337",
+    "gasRefund": "1406.994056015118",
+    "refundedTxs": [
+      "0xa8455af3f457c3c13489668fe787b72d6c38291c481f5c1c6a5d927639fe5a0e"
+    ],
+    "totalClaimRaw": "54622737100318455"
+  },
+  "0x252bfe043ea513ad3c8bcfe6f6eb096e0d942c6a": {
+    "totalClaim": "24592.012005459893",
+    "bought": "23520.863159379175",
+    "gasRefund": "1071.148846080718",
+    "refundedTxs": [
+      "0x7995b8e6c18151979a612a6cf260c4033f31d2ab78b068aa26b39112891d2201"
+    ],
+    "totalClaimRaw": "24592012005459893"
+  },
+  "0x204bc0dce80addfa5ed3a701cadf9c6086e363a0": {
+    "totalClaim": "22549.290441048093",
+    "bought": "19520.859653918918",
+    "gasRefund": "3028.430787129175",
+    "refundedTxs": [
+      "0x30348944d7f2dab40060cfefa56183e5191508f2c97621b82275d8e8a48a60ab",
+      "0x36281ad66ea6fc6a8843629dc65d45c57eaec39a3ce3b0d1292515ed57a879f0",
+      "0x9796f4e2bcbad66af6322be97e335e73eca172482a941fe740bb39e18eaac94d"
+    ],
+    "totalClaimRaw": "22549290441048093"
+  },
+  "0x26996b2929970d0ab5d65b5d4004f9a9958c9b84": {
+    "totalClaim": "96675.589790395211",
+    "bought": "94137.519661946089",
+    "gasRefund": "2538.070128449122",
+    "refundedTxs": [
+      "0x2e01a11a8cded3278d89e3d2ceb3c13c0ed72db947822f79add990122fa7c815",
+      "0xc76376f48d45ea3a20a46c1edb3d10fc96b0b7c43a7d98dfa45940c120ac7734",
+      "0x72245d54a36385b3779f680a5089f98875dd46c54c9507b2897b78331203c811"
+    ],
+    "totalClaimRaw": "96675589790395211"
+  },
+  "0x259d211921491f89bfd46b9e8869a6fd4835ae52": {
+    "totalClaim": "7817.234512006357",
+    "bought": "7817.234512006357",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "7817234512006357"
+  },
+  "0x2ce736f4b143997b4c307799dbf426265ccfb533": {
+    "totalClaim": "11729.878669724178",
+    "bought": "10516.767720850277",
+    "gasRefund": "1213.110948873901",
+    "refundedTxs": [
+      "0x701ff95ab8d3f37f89fcf02475b0d262a9152df2076dfdd140f1420eca122f7e"
+    ],
+    "totalClaimRaw": "11729878669724178"
+  },
+  "0x2c3545ceaed6d3cb326486ce01f156282fc7f9a5": {
+    "totalClaim": "28778.521281471773",
+    "bought": "27988.013501268196",
+    "gasRefund": "790.507780203577",
+    "refundedTxs": [
+      "0xc1218c0e5ac8bac152da1855150e1b8b9129d8f8df38252e417478237328460a"
+    ],
+    "totalClaimRaw": "28778521281471773"
+  },
+  "0x2eb32ed7781218af5fe0baf669201cfdfbfbb1c5": {
+    "totalClaim": "6449.830176257435",
+    "bought": "5800.397113463498",
+    "gasRefund": "649.433062793937",
+    "refundedTxs": [
+      "0x350ff3998b938c7dd279e7c47c92e4e72f4ab5aa665c899cb7c10c5e68cf06cd"
+    ],
+    "totalClaimRaw": "6449830176257435"
+  },
+  "0x2be6792414d997a9f3fe66e813ff2f30c9334715": {
+    "totalClaim": "83301.872773664883",
+    "bought": "82461.985703743855",
+    "gasRefund": "839.887069921028",
+    "refundedTxs": [
+      "0xdff0f934aec1e9c3175c9b31b434718851060f5bfb0f5d857a8d1c607fa9aa68"
+    ],
+    "totalClaimRaw": "83301872773664883"
+  },
+  "0x231b99c6caf1cb753941d174ea4423788502f24e": {
+    "totalClaim": "46029.233768177194",
+    "bought": "44960.401373693607",
+    "gasRefund": "1068.832394483587",
+    "refundedTxs": [
+      "0xf773096736434093019da3b368fd99d1289fd16c57b2d9febb44f3080717294a"
+    ],
+    "totalClaimRaw": "46029233768177194"
+  },
+  "0x2b077f7730f7a77d4e91013c5f54b0f925210c55": {
+    "totalClaim": "347208.525973880834",
+    "bought": "344759.54747132165",
+    "gasRefund": "2448.978502559184",
+    "refundedTxs": [
+      "0x3a9b4fafa2888b78b8f1f358d8f5fd329c00815fb26d068e146ed39e4c458980",
+      "0xe5c6336a2da590577c02b575e95b71d0895f06c93672f7512eafb84190a37709"
+    ],
+    "totalClaimRaw": "347208525973880834"
+  },
+  "0x284b999d7de8026873dbf537b8e37d0f18f6bcc0": {
+    "totalClaim": "6712.103432746442",
+    "bought": "5742.468204298593",
+    "gasRefund": "969.635228447849",
+    "refundedTxs": [
+      "0x0f589e208b0383dd4bfd9673d6e9ffd3f2c2b48f565d9bf6797cf6a2843e3e64",
+      "0x5de4de3e0716720e0b5026f981d0d331de24665dd2e2b68872b64cf1bc3c2cc3"
+    ],
+    "totalClaimRaw": "6712103432746442"
+  },
+  "0x28124cb7b896ea1ff9250c1576f08312446f702d": {
+    "totalClaim": "10153.507270050223",
+    "bought": "9522.138564695629",
+    "gasRefund": "631.368705354594",
+    "refundedTxs": [
+      "0xfcc27415294781199959aa71af970d1add90b86d17d40026b2b3f23168189fa1"
+    ],
+    "totalClaimRaw": "10153507270050223"
+  },
+  "0x2049ea2d1dce1f75299fbb9b20aa730d771ec0aa": {
+    "totalClaim": "9286.025537020629",
+    "bought": "8654.717240330272",
+    "gasRefund": "631.308296690357",
+    "refundedTxs": [
+      "0xab4b7c02b23b9ed421bcae98f81dc2e15556cf501cd32307f5dd8de2ebe2b025"
+    ],
+    "totalClaimRaw": "9286025537020629"
+  },
+  "0x2c0189a83fd5aaf947e19a3d0c2906004ef0a8f7": {
+    "totalClaim": "10903.802508395618",
+    "bought": "10299.263129353178",
+    "gasRefund": "604.53937904244",
+    "refundedTxs": [
+      "0xe588c3c7882eab4fa4265a95f3e241e3fb711e4f09125bdb28bfe7d580738d45"
+    ],
+    "totalClaimRaw": "10903802508395618"
+  },
+  "0x299cd1c791464827ddfb147612244a2c59da91a0": {
+    "totalClaim": "321818.413873245862",
+    "bought": "320337.300739085812",
+    "gasRefund": "1481.11313416005",
+    "refundedTxs": [
+      "0xa0db993003cb0a620f18571aadc3a275a9b34ae4dd95a499f92c2848ad6da447",
+      "0x61c80b8db33ead0cfd40aab6beb6f06157cd223af98cbb63961d89e88d33c08f",
+      "0x349b11f03be02763f12f0b6339ab7beb813fb3974895a4c32ff50494f386cee0"
+    ],
+    "totalClaimRaw": "321818413873245862"
+  },
+  "0x2493dfaaab8e8dda71696b351c3669c473f8658c": {
+    "totalClaim": "32042.694140635432",
+    "bought": "30266.28960108978",
+    "gasRefund": "1776.404539545652",
+    "refundedTxs": [
+      "0xcb7c189629ac5741bd529a90b95a54229c74117850331f22f58c9d6ffe9c05ae",
+      "0x1dae8c76d501c66852deabb4355a2e755cbf2df757669edf84c3e0306768ff80",
+      "0x79988537b975d57f79102db97d819f7d90e9722355abb2a7f3d51ab7687478bc"
+    ],
+    "totalClaimRaw": "32042694140635432"
+  },
+  "0x2c8a0f341ccdccfe36b5be8fe9bbfa2fdd4330c9": {
+    "totalClaim": "12075.178818611698",
+    "bought": "11115.087180755559",
+    "gasRefund": "960.091637856139",
+    "refundedTxs": [
+      "0xfa13fbc5e23b0cf58ce008969af3a154bb49b94b5f0cdd7eac676d09b1713288"
+    ],
+    "totalClaimRaw": "12075178818611698"
+  },
+  "0x25b9219cab83d382a1b42667ca3497f3c44d634c": {
+    "totalClaim": "13445.134315760935",
+    "bought": "12347.206843255966",
+    "gasRefund": "1097.927472504969",
+    "refundedTxs": [
+      "0xad558e4496ff3a9a2e8ce7e730caaab390d097d351e5596f85938035e7c3e6ad"
+    ],
+    "totalClaimRaw": "13445134315760935"
+  },
+  "0x2c4d7643c54200031c1bde554633b033a456d842": {
+    "totalClaim": "80773.626369067336",
+    "bought": "79848.918837075414",
+    "gasRefund": "924.707531991922",
+    "refundedTxs": [
+      "0x12cac49bb4d68495eaeaca5ee0d322dd07f1e4236750471008e89cc77c9c42d3"
+    ],
+    "totalClaimRaw": "80773626369067336"
+  },
+  "0x20872b4966dcbb7de161de3f001841fe0c175ce7": {
+    "totalClaim": "10731.607393888014",
+    "bought": "10009.602054005165",
+    "gasRefund": "722.005339882849",
+    "refundedTxs": [
+      "0xf4c183239a5aa088197c2acd939f7f06780f908e9a64ec63e6af038bbbb56b29"
+    ],
+    "totalClaimRaw": "10731607393888014"
+  },
+  "0x2a03bbb620b0f0d6d2df692b5ee450c69a0dcee5": {
+    "totalClaim": "4568.557972172142",
+    "bought": "3523.056946864233",
+    "gasRefund": "1045.501025307909",
+    "refundedTxs": [
+      "0x1650290e17cc70a7222bbe950aea8444d4f7ce40680e8dbf267d37beb4c10cb2"
+    ],
+    "totalClaimRaw": "4568557972172142"
+  },
+  "0x22e3201bf5717920487605a76ba5e3250106dc65": {
+    "totalClaim": "23221.269655016095",
+    "bought": "22161.7696440488",
+    "gasRefund": "1059.500010967295",
+    "refundedTxs": [
+      "0x48e073e1a50596cb4baf365870fc26a037ba06350a2a77ee46f95a83c02c6fdf"
+    ],
+    "totalClaimRaw": "23221269655016095"
+  },
+  "0x230bf2331bb0929d74459d5b05608fdfbd77fed9": {
+    "totalClaim": "16228.400510019365",
+    "bought": "16228.400510019365",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "16228400510019365"
+  },
+  "0x282103a7c6611f6c8fdf38deb1ec91c13f52a892": {
+    "totalClaim": "36786.551461207013",
+    "bought": "36400.953370790754",
+    "gasRefund": "385.598090416259",
+    "refundedTxs": [
+      "0xe2b91eceb702faff6662b1152b8833ea8f8d6e23a4d9a4831abf8a4733104c97"
+    ],
+    "totalClaimRaw": "36786551461207013"
+  },
+  "0x2ccd94e5b78d667c0f4f16c62d257932fee79443": {
+    "totalClaim": "81391.889387658297",
+    "bought": "80697.417036533574",
+    "gasRefund": "694.472351124723",
+    "refundedTxs": [
+      "0x01b8d82ea142cfbca931722894761598eb57bd6c3f0bcf13f324695e9e7015a7"
+    ],
+    "totalClaimRaw": "81391889387658297"
+  },
+  "0x2481e9c8091033f216f5c5cbc0a56c8c03e316de": {
+    "totalClaim": "11710.936944073184",
+    "bought": "10486.747812230144",
+    "gasRefund": "1224.18913184304",
+    "refundedTxs": [
+      "0x7cc7305cb78bc063408b8bb3bf82f3e3de8936cf97c3bf872662520d2cc12f56"
+    ],
+    "totalClaimRaw": "11710936944073184"
+  },
+  "0x2b5756b921a3b273d7324b94899e7631f39eb65f": {
+    "totalClaim": "13197.83836118787",
+    "bought": "12680.305147879279",
+    "gasRefund": "517.533213308591",
+    "refundedTxs": [
+      "0xcb01e294b8d55b3336b8efd04327fc8c900a0b60284374bec8f98150e9b3959e"
+    ],
+    "totalClaimRaw": "13197838361187870"
+  },
+  "0x256620e41f5ff1fd39a57a1a450bef5182611fdf": {
+    "totalClaim": "20776.210179008951",
+    "bought": "19623.285949437554",
+    "gasRefund": "1152.924229571397",
+    "refundedTxs": [
+      "0xe501b9d2bf2c495465958c7a51781a6352020e5467c8a2a7ae84249fe984273f",
+      "0x51b83e6db2fddcc0798c62f3dcfa0dfdacfc56adc0b678855386ea7c8acd701f"
+    ],
+    "totalClaimRaw": "20776210179008951"
+  },
+  "0x24122ec185b3309563bcfd2e0c219039ed43808a": {
+    "totalClaim": "12574.698097941605",
+    "bought": "12133.878127503529",
+    "gasRefund": "440.819970438076",
+    "refundedTxs": [
+      "0xd98fb23659ccb396d61ee7f0435975c8dec0c27c61877e091d559f003f8cc304"
+    ],
+    "totalClaimRaw": "12574698097941605"
+  },
+  "0x232ed3065e03b3ff35a029641ed80bf3a015d1ca": {
+    "totalClaim": "15825.993906337815",
+    "bought": "15398.241448409948",
+    "gasRefund": "427.752457927867",
+    "refundedTxs": [
+      "0xdb0f4a81d4050c99cd29cbf1856bf876601b30344bf89839a4c624df707babd9"
+    ],
+    "totalClaimRaw": "15825993906337815"
+  },
+  "0x2b9b53ec31b253cc9a6c42b81139f4f4f1cef2d9": {
+    "totalClaim": "1478.434067711924",
+    "bought": "500.0",
+    "gasRefund": "978.434067711924",
+    "refundedTxs": [
+      "0xe744b22b7431735505d58c25815e9db3f2f793443558007d27372aa20ad5cbc0"
+    ],
+    "totalClaimRaw": "1478434067711924"
+  },
+  "0x272fcde0475981d2ae5fa60ff23df30c4602b2af": {
+    "totalClaim": "174764.278662613079",
+    "bought": "173212.490696262676",
+    "gasRefund": "1551.787966350403",
+    "refundedTxs": [
+      "0x9b53ff36ea29c7fc3f9ad14eeaeadc6e8a3de176fba638b480fe4b7f46c53473",
+      "0x8714ff9a54daba1807d67ab015530e188e9c4362e7ad58ebba9beb9860a2cbca",
+      "0xa6fc2187ab219bf824975b634d6c678f8d7d8abfecab401d67f9f58a25f23c90"
+    ],
+    "totalClaimRaw": "174764278662613079"
+  },
+  "0x2a0cf104c29c1b5141f92f500d2a0cf77e2dcff3": {
+    "totalClaim": "40469.382031151185",
+    "bought": "39825.629286981668",
+    "gasRefund": "643.752744169517",
+    "refundedTxs": [
+      "0xc82fca12086036a4b9ca703ceb5861aa8cdf01349c8efe1a479d8604cfa65dec"
+    ],
+    "totalClaimRaw": "40469382031151185"
+  },
+  "0x2e963314b87163bcd906788ac13465a30f89c7a9": {
+    "totalClaim": "57308.729663963099",
+    "bought": "55419.87936433429",
+    "gasRefund": "1888.850299628809",
+    "refundedTxs": [
+      "0x685f9e1126e59e55df15023d692ad5784bb6889fdad25492527f3fb76a93a299",
+      "0x1d8d9d0d7bdf6569e44e0b419a9a28d640702d407f0b0f9caaadd26c9f55b519"
+    ],
+    "totalClaimRaw": "57308729663963099"
+  },
+  "0x239af1fe6a90f304ab666e411e56292ba876a802": {
+    "totalClaim": "22259.360691313293",
+    "bought": "20807.599010858878",
+    "gasRefund": "1451.761680454415",
+    "refundedTxs": [
+      "0xa94b27cbe0a8d371d66310a90627242460d4b519b32b8d95f3dc0c78820ca2c6",
+      "0x8e38b9f4f8b8b548697305bb91b0804d3e22b57107693063f10bba5e061b7b98"
+    ],
+    "totalClaimRaw": "22259360691313293"
+  },
+  "0x2028411ad3056b220e3552b1817e24da54b48f6a": {
+    "totalClaim": "7542.824507146043",
+    "bought": "5832.501935614975",
+    "gasRefund": "1710.322571531068",
+    "refundedTxs": [
+      "0x4e4079fbfb81562aecede13c89dc583db2036b21801a0327fce02408c477f232",
+      "0x01b7059f96a1f23b77beffb038cbd08cd87a6dd0290b8508b3aeb97d6bf62896"
+    ],
+    "totalClaimRaw": "7542824507146043"
+  },
+  "0x29ed191612485ed6c73144dd14dbfab5bf96e4ff": {
+    "totalClaim": "16412.408903614899",
+    "bought": "15836.950715167226",
+    "gasRefund": "575.458188447673",
+    "refundedTxs": [
+      "0xf8c459899906ea5d20b04a84ba4e5285d6ad55aa850b413cb80a5ccbd1c70267"
+    ],
+    "totalClaimRaw": "16412408903614899"
+  },
+  "0x296276068fdf7b92eb62e18362de33dfd8383c3d": {
+    "totalClaim": "125240.382625556264",
+    "bought": "124372.936918015457",
+    "gasRefund": "867.445707540807",
+    "refundedTxs": [
+      "0x8f32537adda1c7c30cfde20301279a865a027845b4ff7f916f94136b4b4da3fa"
+    ],
+    "totalClaimRaw": "125240382625556264"
+  },
+  "0x23a70957d494d02c93b4bf497e486636c43850e8": {
+    "totalClaim": "7582.870539843615",
+    "bought": "6967.169675159542",
+    "gasRefund": "615.700864684073",
+    "refundedTxs": [
+      "0x5949b3e75915d7f505901b31f94f4ce08c5f5c24ef400498df584ec24a62d54b"
+    ],
+    "totalClaimRaw": "7582870539843615"
+  },
+  "0x2a92a7edf8bf75b3aa9c9832b3b3eeafe34ba095": {
+    "totalClaim": "40790.550545000881",
+    "bought": "40107.584435704287",
+    "gasRefund": "682.966109296594",
+    "refundedTxs": [
+      "0x2f05666931ee90723930885f75ef007f2f586516b9b2fa71977a6ab0c8ddf5fb"
+    ],
+    "totalClaimRaw": "40790550545000881"
+  },
+  "0x2003e1732fa4b08bc0c7fc6ccda78a85a6528184": {
+    "totalClaim": "47300.93409137088",
+    "bought": "45953.964147009843",
+    "gasRefund": "1346.969944361037",
+    "refundedTxs": [
+      "0x00d2964f6ce9f44ffc43f8e42999653aeb94bd906852288103bae85a4081c8e4",
+      "0x956aba6c7de243ce379dcbec7f3eeb8c4ee4f25598c7cdd6730b5258a18676c7"
+    ],
+    "totalClaimRaw": "47300934091370880"
+  },
+  "0x2c5acd0d7ed19a54d27787600ba6aa3797e10201": {
+    "totalClaim": "6204.194401925421",
+    "bought": "5759.304515925251",
+    "gasRefund": "444.88988600017",
+    "refundedTxs": [
+      "0x1acb3da89b935a1b28c4e7ebdb7b3762bfc10070aad09b14b42486d10374c3e3"
+    ],
+    "totalClaimRaw": "6204194401925421"
+  },
+  "0x27c2943985d0beeaa850a5bc13b1fc34b797b8d2": {
+    "totalClaim": "40102.449258922877",
+    "bought": "39477.096626174996",
+    "gasRefund": "625.352632747881",
+    "refundedTxs": [
+      "0x4b13550d6193bbddefc3e08b8aa3e7afa2a283204f2c0e33cab03662371a35ba"
+    ],
+    "totalClaimRaw": "40102449258922877"
+  },
+  "0x28fad3430eca42e3f89ed585eb10ceb9be35f7b9": {
+    "totalClaim": "78016.963500161884",
+    "bought": "77380.502344412123",
+    "gasRefund": "636.461155749761",
+    "refundedTxs": [
+      "0x2429dbed81283ae0aee32ad13142d117c616062b3b0dc13acae5995f8b72a59b"
+    ],
+    "totalClaimRaw": "78016963500161884"
+  },
+  "0x20d709fd3dee24c743fe00e906f958f7beffea54": {
+    "totalClaim": "2164139.7977871758",
+    "bought": "2159580.741320346488",
+    "gasRefund": "4559.056466829312",
+    "refundedTxs": [
+      "0xad4d5796aeef58a462c5ec4102902b8a4947431b6f0c17d5c6e6620590155f6a",
+      "0xb9b7b1d96f7eacc7944118f0d6bf494168c85d4d0b1e6e812e53abe7ddfa5364",
+      "0xc3b773021d77d4ad4dbde3e0dd46a7b6919d17c60524c9f4494dacd7d1010ecd",
+      "0x57fa6d0e2054ced6e2d7b9c45d87b7e3f2787c6dca0c210450c14f8af30cb912",
+      "0x055ba5cb0896444b4f0d6aeb3201b86d97a4918e009e137edecd876bd8b25235",
+      "0xff30455b237063c783ebf6faf470eb2a4540c1fc0a145807100bbbdd6b1f39ac"
+    ],
+    "totalClaimRaw": "2164139797787175800"
+  },
+  "0x2b8d21f3493de4f46f458126441ffec22a17235e": {
+    "totalClaim": "433995.433999011907",
+    "bought": "433301.013569488234",
+    "gasRefund": "694.420429523673",
+    "refundedTxs": [
+      "0x781865436b69de1fec8655df1daeb57d0e3a14e52e3f73b0c2cb2253b8547fae"
+    ],
+    "totalClaimRaw": "433995433999011907"
+  },
+  "0x223ff7cdda3c230a28b684dd51c15ef250086e53": {
+    "totalClaim": "53365.762152017575",
+    "bought": "50489.056885603458",
+    "gasRefund": "2876.705266414117",
+    "refundedTxs": [
+      "0xf9a56b6e145fb182cc80fc009bb50192b86e9c6aca52ac8166d0a8df1bd60938",
+      "0x3e114375a14238362e814391c3699ad9c30da2041ea016d6524499b9febc20ac",
+      "0x7ab1e06aeab81104e872d79978bb17a6b07c165accbdfb012824a07fdd23dcb5"
+    ],
+    "totalClaimRaw": "53365762152017575"
+  },
+  "0x2d97b313f6a506f6c58279bb67a214459bfeca2d": {
+    "totalClaim": "61711.210185602102",
+    "bought": "61006.47981950484",
+    "gasRefund": "704.730366097262",
+    "refundedTxs": [
+      "0x4fc8cceba2f32ff08b3ac5a260b321d390518b7d15a9493baea25f20a3d6d2b6"
+    ],
+    "totalClaimRaw": "61711210185602102"
+  },
+  "0x29460e16c5f7bbfabb37ec0428a4cca3337064ee": {
+    "totalClaim": "124611.250134565667",
+    "bought": "123941.193619462857",
+    "gasRefund": "670.05651510281",
+    "refundedTxs": [
+      "0x14fbed78d1b1900d4eed94287c2f837b5ed16dc16ecbdf40c1b4d60f4cfb94fb"
+    ],
+    "totalClaimRaw": "124611250134565667"
+  },
+  "0x280a2aeefe83c54989708c268d1993ad966f6a9b": {
+    "totalClaim": "292838.091765308897",
+    "bought": "290729.503082540582",
+    "gasRefund": "2108.588682768315",
+    "refundedTxs": [
+      "0x302637471d4849224b034c38f68b2ae677508b420d1e8aa1074cc00af49bddb2",
+      "0x8bc2a78f9a0cb011b3a0c558944010cec342a3e45a32a078dfbe8596f1e4bdcd",
+      "0xa3f117aa5b4c1049013dad93cc17b7924e8542c3574595a7d4ddc13dcf5fa46b",
+      "0x7890e2e1ffffc54309804bc350543ce6f40e59b08268d49f74ab867523e8605f"
+    ],
+    "totalClaimRaw": "292838091765308897"
+  },
+  "0x27d205c70be488f983299bdf2574d862eb6fe136": {
+    "totalClaim": "21128.896187516651",
+    "bought": "20260.376526994407",
+    "gasRefund": "868.519660522244",
+    "refundedTxs": [
+      "0x86a4d8d9806cd13ac2ec3881aab04884208c0c1cd3ee5369d0be500842e73e07"
+    ],
+    "totalClaimRaw": "21128896187516651"
+  },
+  "0x24e8b6aaa7596392f097e2d9454904e1a7ae0425": {
+    "totalClaim": "97323.65769244224",
+    "bought": "93974.507465957964",
+    "gasRefund": "3349.150226484276",
+    "refundedTxs": [
+      "0x851510d1f4f76342d5c3e05c6a99d9d92a4b3882c2ccee885371ebc08ca5f1e5",
+      "0xe0c83c21118301c3893c12c107d0e7754feafc7aecc663b490b2e99439c2e92d",
+      "0xa5fc0fc7029fd1995d9e9f905ff745e25f4d6c15b2174846ca791a88ddef31ee"
+    ],
+    "totalClaimRaw": "97323657692442240"
+  },
+  "0x22645019e947d04ca9101185b03987d39a7bb49e": {
+    "totalClaim": "95988.441796257303",
+    "bought": "95498.189372099808",
+    "gasRefund": "490.252424157495",
+    "refundedTxs": [
+      "0x08655a382d687f263ae38eb464484ebeb1d6c8a70424da8c56599a24e4b1a0a8"
+    ],
+    "totalClaimRaw": "95988441796257303"
+  },
+  "0x2bcd087576cb955113418ced0a8c2be1b7a3dac5": {
+    "totalClaim": "20044.387063454536",
+    "bought": "17934.540748901999",
+    "gasRefund": "2109.846314552537",
+    "refundedTxs": [
+      "0x2af8130c4f39d0021b60a6c16ff2f0a0401432656eba490637af4d67a6e5985c",
+      "0xdb576863e4fed204956e0be47d0a74f700aee8a628926127bf851371f7c4754a",
+      "0xd675a04a7cdcb01b0e26a38b860b9d7c2c85e689e17c5799b27ddcd7bfc56d98"
+    ],
+    "totalClaimRaw": "20044387063454536"
+  },
+  "0x24cdf11059ebc2162ebe103a8d3d4d52eb86ec2b": {
+    "totalClaim": "16364.620177285639",
+    "bought": "15301.135886603965",
+    "gasRefund": "1063.484290681674",
+    "refundedTxs": [
+      "0x720fec8488843d58b30116c7a7276c7110539a47765ecce3896d68d66970e531"
+    ],
+    "totalClaimRaw": "16364620177285639"
+  },
+  "0x220c95b191ecb4652824865e6c12f4957c8d2083": {
+    "totalClaim": "15755.167219811141",
+    "bought": "14336.750268414783",
+    "gasRefund": "1418.416951396358",
+    "refundedTxs": [
+      "0xae2184a4521313b2a1e21574861e6f383a5f1bea6fd1c45081b735690ce74495",
+      "0x455b0537375876d38e4e1d2bc4213cbd7c950e42bb251e597153198b95eb4de8"
+    ],
+    "totalClaimRaw": "15755167219811141"
+  },
+  "0x2f1264dca7397b768ff567db2d4bf6f409594286": {
+    "totalClaim": "17985.758428652335",
+    "bought": "16872.190189939766",
+    "gasRefund": "1113.568238712569",
+    "refundedTxs": [
+      "0xc8f261c3933b8096ee44edf8296200745ea4481b7ac705654f656c0dce5e39ad",
+      "0x75a6876152e2a1fb8b25628c1907e3290a93fba92c6b9b3a6603be3f822b81aa"
+    ],
+    "totalClaimRaw": "17985758428652335"
+  },
+  "0x227ae1d320b68ef0228f67178c9ec6a6b263bf57": {
+    "totalClaim": "23157.613505281399",
+    "bought": "21376.358106223133",
+    "gasRefund": "1781.255399058266",
+    "refundedTxs": [
+      "0xc534be8fe04da190223129a8770eb92d5a7331f3b9f759ca981f1efd863e2b6b",
+      "0x5e1e1140279585c70c36a4ca6e8a15c9bcd72870ef4dd899b71fb9edd1ade260"
+    ],
+    "totalClaimRaw": "23157613505281399"
+  },
+  "0x2f1454a5bd2d9a2a7d9d9bfa21619cfbb1c5afbd": {
+    "totalClaim": "12237.634660348022",
+    "bought": "9417.189518726781",
+    "gasRefund": "2820.445141621241",
+    "refundedTxs": [
+      "0x3089176986a74b27525ac2158a2a0722f7bd592d7d743f8d31f57ca4f134c353",
+      "0x57b2c4f3e0d67432534b9820f15d1e7d2465444ee1d3a03888678a19675cfe08",
+      "0x5bbfbc06d10bed06fc1217e104708d3db90f7da45850b6d434208910f0eabe14"
+    ],
+    "totalClaimRaw": "12237634660348022"
+  },
+  "0x2aaed0d1bf9714def1cbfec07289f6e69a18ba36": {
+    "totalClaim": "2002063.19992593748",
+    "bought": "2000000.0",
+    "gasRefund": "2063.19992593748",
+    "refundedTxs": [
+      "0x3405cd43815c42019e31762435014e4e2b92f7d9bedde8f5098cfd98f62191ed"
+    ],
+    "totalClaimRaw": "2002063199925937480"
+  },
+  "0x2b148b105e984ae6aee2d13f30fc1445e6e8a3f7": {
+    "totalClaim": "31836.635218453183",
+    "bought": "29799.558406523413",
+    "gasRefund": "2037.07681192977",
+    "refundedTxs": [
+      "0xd38f183cbeb0cf62eb89eb326735c8a8877d32c907ecd366acf6f689ee7a6f6a"
+    ],
+    "totalClaimRaw": "31836635218453183"
+  },
+  "0x2eb63fa9b23558e57a031dcccc7408a04fee23e1": {
+    "totalClaim": "16810.560143275903",
+    "bought": "15862.814957350958",
+    "gasRefund": "947.745185924945",
+    "refundedTxs": [
+      "0x3387e315a16a6c231bfff86c68ac28e2edf3986b03527e9b539c493cb9298f11"
+    ],
+    "totalClaimRaw": "16810560143275903"
+  },
+  "0x24e4d0ee23e6fea7c298ed366677f1b7ffa5cbfb": {
+    "totalClaim": "18043.393201908257",
+    "bought": "16500.0",
+    "gasRefund": "1543.393201908257",
+    "refundedTxs": [
+      "0x1c0bf29a18b8e0833ca597873e71f2bd688641bc98771372ddc0b5da0c58fbc4"
+    ],
+    "totalClaimRaw": "18043393201908257"
+  },
+  "0x2a1049062c6cfd69bd38fbaf3b0559df1dbbc92c": {
+    "totalClaim": "35325.134162203165",
+    "bought": "34591.446180626456",
+    "gasRefund": "733.687981576709",
+    "refundedTxs": [
+      "0xbe870b3dcdeb3e7cfa86185acd241cf422f02e012f2e535e0100eeb8899bc6a7",
+      "0x39da9be31cf51bd5ad580c646da113c72c2b6e14038f0b30d0ca53edbaec6a7d"
+    ],
+    "totalClaimRaw": "35325134162203165"
+  },
+  "0x2e039299209de1419280127d6823a3db1e7e1ee6": {
+    "totalClaim": "33146.811473674682",
+    "bought": "32290.380243482149",
+    "gasRefund": "856.431230192533",
+    "refundedTxs": [
+      "0x8a7597e2ae037ac3641facff33140325c521361b2124e60a979bbf6feb50461e"
+    ],
+    "totalClaimRaw": "33146811473674682"
+  },
+  "0x2485499b80788e8f8d4dadb8a53c78583c6767a8": {
+    "totalClaim": "8557.470407456728",
+    "bought": "6962.0565732519",
+    "gasRefund": "1595.413834204828",
+    "refundedTxs": [
+      "0xefd93a7d8e81d5bdfbedbc24cce11c4941fc3567c438f12c212ddfc1243c91aa",
+      "0x1a4226a5ccf18a8d5a51c6a7069f7fee628cd08b09aec267ed701058e73f1fa3"
+    ],
+    "totalClaimRaw": "8557470407456728"
+  },
+  "0x29cd7b923a23fa37ec23fbff05d3ee22163c5dfa": {
+    "totalClaim": "29799.479233069237",
+    "bought": "28592.393304288258",
+    "gasRefund": "1207.085928780979",
+    "refundedTxs": [
+      "0xcf9fb40261a2dd7650f477de45bc18cbb2bf448f34d43edfea4627f3a769796b"
+    ],
+    "totalClaimRaw": "29799479233069237"
+  },
+  "0x21dd395a1357cfe813caa8b6bb59462813960058": {
+    "totalClaim": "47293.515870860635",
+    "bought": "46558.196330056798",
+    "gasRefund": "735.319540803837",
+    "refundedTxs": [
+      "0xa7462a0d43d178306d5187ff597f611e856d954f33b903617d1d04ab53343f5b"
+    ],
+    "totalClaimRaw": "47293515870860635"
+  },
+  "0x2c2e225dc5f8e1b694648f79d689cc4b13369b2c": {
+    "totalClaim": "24075.059843006954",
+    "bought": "22415.60863331279",
+    "gasRefund": "1659.451209694164",
+    "refundedTxs": [
+      "0xe2053f5b8dd07ab0e742f753a2e286da4fba0b8dafc65daaa9f5ff20169b39ab"
+    ],
+    "totalClaimRaw": "24075059843006954"
+  },
+  "0x2dba976150079f2461cb5745f85f4cf1a4b61042": {
+    "totalClaim": "13525.583236061173",
+    "bought": "10605.973398061221",
+    "gasRefund": "2919.609837999952",
+    "refundedTxs": [
+      "0xcc4d7ea4773af66e3da3dd563265f81bf7953dfc1a38984cf7dfa08477a83871",
+      "0x5eeb1581de02a34951a8c515a66612bd6c853351d115c6d80ec3663ff6bc7da0"
+    ],
+    "totalClaimRaw": "13525583236061173"
+  },
+  "0x27c1ceeecd1cbce7c45e472f5cfeec6525a7d754": {
+    "totalClaim": "37936.904757498613",
+    "bought": "36806.084548444701",
+    "gasRefund": "1130.820209053912",
+    "refundedTxs": [
+      "0xd7dc4d2e8e6d5acc8dd731caec537e6060753a8b93665cc68e713b4857535288"
+    ],
+    "totalClaimRaw": "37936904757498613"
+  },
+  "0x20438c2f91d2bdfc3aa224f1a00e4111b297a392": {
+    "totalClaim": "7104.59422567623",
+    "bought": "7104.59422567623",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "7104594225676230"
+  },
+  "0x25d421dc4d1144247bfaabeb744ab1a7ec6ae7e7": {
+    "totalClaim": "10356.803815243046",
+    "bought": "9382.900305376276",
+    "gasRefund": "973.90350986677",
+    "refundedTxs": [
+      "0x5b14b636098d0339493c073f859200df8839488a45a94e03de68b5ef31341749"
+    ],
+    "totalClaimRaw": "10356803815243046"
+  },
+  "0x244c050d0f82e55419db3b08475c4360983c5ed0": {
+    "totalClaim": "9509.536371391769",
+    "bought": "7174.567145224254",
+    "gasRefund": "2334.969226167515",
+    "refundedTxs": [
+      "0x68ff474e5eb8c0d38ccb0c98a0e41070c6ac5e9b8eeed7fa1a09e8d0bfb946b3",
+      "0x9512c7556f7917a22d443132a2e8b2993ffcc51663de6c3a38290d446455b646"
+    ],
+    "totalClaimRaw": "9509536371391769"
+  },
+  "0x2705ca8601ac809d34e4dc07c34dc54bf1a94e3e": {
+    "totalClaim": "9226.651462970714",
+    "bought": "8618.885013687786",
+    "gasRefund": "607.766449282928",
+    "refundedTxs": [
+      "0x7ba4e8b8845af8a24f32601e435358e2d622b499c5a778edc11d5a79b1e64aef"
+    ],
+    "totalClaimRaw": "9226651462970714"
+  },
+  "0x2251da7a62102191d126c933d0a7d42d94fdc359": {
+    "totalClaim": "115925.29099535361",
+    "bought": "113758.387931377456",
+    "gasRefund": "2166.903063976154",
+    "refundedTxs": [
+      "0xfd54c5009ebcc9c256070fb6b487e3cf0f9df900299664b9b9be48598a8c72ec",
+      "0xa8669a907d8605d4766b6f300272e996764d61140986907823f59ef67e3fa60d"
+    ],
+    "totalClaimRaw": "115925290995353610"
+  },
+  "0x2ca23462ae82fe257b605c67f6ecb1cebb62ecbd": {
+    "totalClaim": "147134.143820024838",
+    "bought": "145414.593223133667",
+    "gasRefund": "1719.550596891171",
+    "refundedTxs": [
+      "0x9187df279a5ed2a7ec909eaf9cb65a1152a7eba20e13f1657f1dc8efbd2e26c9",
+      "0xcb8e9cf2ecf5edb5e7e52da3d4435c18ea22233be89a1613c896a28493552db1"
+    ],
+    "totalClaimRaw": "147134143820024838"
+  },
+  "0x20b83fa0e46f0d3560c2446ffad166dde292a786": {
+    "totalClaim": "9432.482861153094",
+    "bought": "8824.81411631841",
+    "gasRefund": "607.668744834684",
+    "refundedTxs": [
+      "0x11248ddc7e1688481c62b05f698deb2ad943ab774a438a6d785c198a86473bbe"
+    ],
+    "totalClaimRaw": "9432482861153094"
+  },
+  "0x2d9131a6ef0793f8fb633337c0cad784a1a0d525": {
+    "totalClaim": "19418.832823741169",
+    "bought": "18660.327868536098",
+    "gasRefund": "758.504955205071",
+    "refundedTxs": [
+      "0x7207efeedd3e6de1e5032ff5e4399cdf33e7657686f5421e5f9a73ec3c7c8cf0",
+      "0x0407ee59dc58bdb9c322b58fe5afb830a0e52b2948e933cadddac85c834376f7"
+    ],
+    "totalClaimRaw": "19418832823741169"
+  },
+  "0x20c34894ef4ecbb1d0e1caa52095ca98971739c1": {
+    "totalClaim": "6043.579424753386",
+    "bought": "5533.878347973484",
+    "gasRefund": "509.701076779902",
+    "refundedTxs": [
+      "0x286c9832f6e8d6d17c60719456b2ffc9d6ff1945dac5c3c0b83db1b7e76c930f"
+    ],
+    "totalClaimRaw": "6043579424753386"
+  },
+  "0x233715254461f5dd4d5bb8df6ef5a52d461cc463": {
+    "totalClaim": "24610.525903135146",
+    "bought": "24090.983615844901",
+    "gasRefund": "519.542287290245",
+    "refundedTxs": [
+      "0x05b72af56f9913190a8604546fc731ddaf12c2a7b06dd4fd7feddce10943854d"
+    ],
+    "totalClaimRaw": "24610525903135146"
+  },
+  "0x21c45b96f9d19d74f36ae368ec49ce5bb517366e": {
+    "totalClaim": "1801.721286709226",
+    "bought": "851.395293815141",
+    "gasRefund": "950.325992894085",
+    "refundedTxs": [
+      "0x7fa8b0750087d08f26bdb988180fa835520895a4c207edd0cfe8ca6bc689c224"
+    ],
+    "totalClaimRaw": "1801721286709226"
+  },
+  "0x2b7f81348bb86fbaac0b53cd333504f248a52b25": {
+    "totalClaim": "8890.819907852476",
+    "bought": "6973.112864269897",
+    "gasRefund": "1917.707043582579",
+    "refundedTxs": [
+      "0xbaa3c62daa47b5c69ed0669ae5b95dd4d27e657f4b59a4024f1eee4f74e372e6",
+      "0x870b853678417710b215ad6751cf17467e2f600bc2570411b425d01c6f12c8f5"
+    ],
+    "totalClaimRaw": "8890819907852476"
+  },
+  "0x2bf1e788ea7599df0e62826c2a718f5a12f1c1fe": {
+    "totalClaim": "11278.009226025425",
+    "bought": "10394.128276916465",
+    "gasRefund": "883.88094910896",
+    "refundedTxs": [
+      "0x7e03ee352497131b9c50302d584cec6a411ae76452dd682f7c346f79559b2309"
+    ],
+    "totalClaimRaw": "11278009226025425"
+  },
+  "0x237638300c12efd9ac1aed2f4369977acb051caa": {
+    "totalClaim": "334504.896359631242",
+    "bought": "333740.195510984807",
+    "gasRefund": "764.700848646435",
+    "refundedTxs": [
+      "0x8433e3ce6a5482679a668e52ae6d86a07edd7f9a64054e3b470a1956341b8776"
+    ],
+    "totalClaimRaw": "334504896359631242"
+  },
+  "0x2bd1d4ff3edf4215b0a0e3f6d20d202ce5b93252": {
+    "totalClaim": "10970.901577748357",
+    "bought": "8575.36728143288",
+    "gasRefund": "2395.534296315477",
+    "refundedTxs": [
+      "0xbfb0e4d2daca301b5dfb07301b9a06e6d4db4035dc1e118c0629364896629ff0",
+      "0x0326c25f713c31b14e40aaa736486cd81c61695a457d46d28957989f2c50196b"
+    ],
+    "totalClaimRaw": "10970901577748357"
+  },
+  "0x21b91d9e00ce88cdc189569ee189e8c52e64a670": {
+    "totalClaim": "37943.202775646921",
+    "bought": "34293.210898482554",
+    "gasRefund": "3649.991877164367",
+    "refundedTxs": [
+      "0xeabb29fe2779f2873748bc2c5d9885410e72e96ed8bb6456021e0b6fc362a10e",
+      "0xac7c5c0ac853f650aec83ec8905072332adc189e4972496f0b8866389cea36f0",
+      "0x2a4b7e06e744400fff3405c375ffe379231c33c88ad6ba7eaeff4afc0701a521",
+      "0xb8253563da3d12072dfbd35c7e44df2d6d5df633ac644697745d0ee99694deae",
+      "0x9f5d0ed04408bd8b0e11e2c5662bf1b4c07e3df36b3f896d34b54b42ffc691f0"
+    ],
+    "totalClaimRaw": "37943202775646921"
+  },
+  "0x217361d53221fbbaf78494a1f874711f5c70eb01": {
+    "totalClaim": "116948.19204348293",
+    "bought": "116201.488249144487",
+    "gasRefund": "746.703794338443",
+    "refundedTxs": [
+      "0x81bb92f224ccd3684fb515fe8e6b4735fc5e67c9c9500f6077c3febd1877bdbb"
+    ],
+    "totalClaimRaw": "116948192043482930"
+  },
+  "0x257313f82843a4fb2905e7a51416451269dad97c": {
+    "totalClaim": "8795.845623260766",
+    "bought": "8210.95210486483",
+    "gasRefund": "584.893518395936",
+    "refundedTxs": [
+      "0xbef8edd6249048a07c7567b3bffdcc2175816a976e9935b5e99cc5239836fea5"
+    ],
+    "totalClaimRaw": "8795845623260766"
+  },
+  "0x2cc0b05b1c4f2578550bdf5eb6ea170d1bea2ba8": {
+    "totalClaim": "17738.910650559347",
+    "bought": "16947.934922079906",
+    "gasRefund": "790.975728479441",
+    "refundedTxs": [
+      "0x32411622a5a05afa5c70f0f14159164d9b2e073ef938de7d9c9a971c07366532"
+    ],
+    "totalClaimRaw": "17738910650559347"
+  },
+  "0x2cc3ccc5fe83830290756c66199d6a2e25577708": {
+    "totalClaim": "9967.575206236062",
+    "bought": "8163.340307527699",
+    "gasRefund": "1804.234898708363",
+    "refundedTxs": [
+      "0xaba73f45a0505889defe29c7e59dca602bb69266fafc4c0df20e80eed59365e9",
+      "0x8eead00f1d118e4f99a97b6ddcc31811cc3be965ed8381b399e1e06156ab03ce"
+    ],
+    "totalClaimRaw": "9967575206236062"
+  },
+  "0x249bbb4d948b9243a2408f135276b9f7bf306002": {
+    "totalClaim": "12462.371903753661",
+    "bought": "10398.950391831857",
+    "gasRefund": "2063.421511921804",
+    "refundedTxs": [
+      "0xa0c3229b89830c57e320c22d035ab032a21487487263854afacb53f7e592c6b7",
+      "0xd4dd6be805910db25fc0cf61692d8bc9faf201846c13c4e08b609f071078bf61",
+      "0x59615705ce7870388a0f695ca88f6544b33cdc9db9b20d822daeefe393f57116"
+    ],
+    "totalClaimRaw": "12462371903753661"
+  },
+  "0x24de61c0642db049c2e544add68fdc6dba7de2c7": {
+    "totalClaim": "3857.309141072008",
+    "bought": "2571.788690194676",
+    "gasRefund": "1285.520450877332",
+    "refundedTxs": [
+      "0xdf0a57aa1b10edd68da57cef252ed6cfdb39286c07e99dcc7548974d1bdf8cf1",
+      "0x273ec28a779af5d890b2082ca30e8298fedf9f3baa56b20b2f490c07d3f15fe3"
+    ],
+    "totalClaimRaw": "3857309141072008"
+  },
+  "0x2ecd1864ccd99ad8a0afc93538b052c9674a95c9": {
+    "totalClaim": "8676.793752543933",
+    "bought": "8170.403131848363",
+    "gasRefund": "506.39062069557",
+    "refundedTxs": [
+      "0x93307cb165e1b52d9d85c3e3de809343c7b1fd606d23777e1ce9b8e141c6dc03"
+    ],
+    "totalClaimRaw": "8676793752543933"
+  },
+  "0x273701aec3581a1e9c18f49c9ea12145440b2a4d": {
+    "totalClaim": "7617.153554487057",
+    "bought": "6978.812091514135",
+    "gasRefund": "638.341462972922",
+    "refundedTxs": [
+      "0x1ed555a390390bdceed78ff26f0b38a134ad2f105db7d9865e54d7dd45c19a72"
+    ],
+    "totalClaimRaw": "7617153554487057"
+  },
+  "0x269c5fe7b460ae612620c65dd0d4e33e8493cc0d": {
+    "totalClaim": "30348.353926498566",
+    "bought": "30348.353926498566",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "30348353926498566"
+  },
+  "0x200489778ac87196e7bcd812b1c62ce22df39afc": {
+    "totalClaim": "8097.183853491223",
+    "bought": "7733.238198185203",
+    "gasRefund": "363.94565530602",
+    "refundedTxs": [
+      "0xacfcbd30791cb19c180beb30a7019a5ef4061b478ba7d9808211672f9a360957"
+    ],
+    "totalClaimRaw": "8097183853491223"
+  },
+  "0x232b8b3f94042d7495a6de2affb25a29a868615b": {
+    "totalClaim": "33234.010974624068",
+    "bought": "32678.436210461169",
+    "gasRefund": "555.574764162899",
+    "refundedTxs": [
+      "0x223f15c5793ce1ead3f1bb1cffda9dfbcfbee97462bae3308eb70f5ee4a00315"
+    ],
+    "totalClaimRaw": "33234010974624068"
+  },
+  "0x298f403b7737baf08157c547f7e6f708fd21f538": {
+    "totalClaim": "8541.846212995221",
+    "bought": "8070.857717893312",
+    "gasRefund": "470.988495101909",
+    "refundedTxs": [
+      "0x0baefc9d3b19c864ff9808f8f9b9d043ab3d59670f58dbfe388751ec09d752eb"
+    ],
+    "totalClaimRaw": "8541846212995221"
+  },
+  "0x299fe93caa4bcf2dd0e7adc46a72a92c0faaeff6": {
+    "totalClaim": "19112.233532442627",
+    "bought": "17777.04",
+    "gasRefund": "1335.193532442627",
+    "refundedTxs": [
+      "0xb6ff3a4781b6d73af35e423015d33b33a1e938ed95273ea1a8804431bba8ba4f"
+    ],
+    "totalClaimRaw": "19112233532442627"
+  },
+  "0x21ea0a2c6e4cd678f58fffa8198c0dea93a16df1": {
+    "totalClaim": "7727.181079078853",
+    "bought": "6896.93140171052",
+    "gasRefund": "830.249677368333",
+    "refundedTxs": [
+      "0xcb492c9fdc58fc21ce11feb8a19ffe6cd7abb1fa64ce2abc1075d2731c9904c3"
+    ],
+    "totalClaimRaw": "7727181079078853"
+  },
+  "0x262d93271e64bb424e9a1c7da652faccdbd230fd": {
+    "totalClaim": "12697.669680622238",
+    "bought": "11119.596459907361",
+    "gasRefund": "1578.073220714877",
+    "refundedTxs": [
+      "0xe617e880786e5fe95477886f514ed97e71693017f7eb23a83307a4149807a500",
+      "0xd98b4997179c506aa283a992c91d85e54aa80dab7c2acb13731eeaf736b40a3f"
+    ],
+    "totalClaimRaw": "12697669680622238"
+  },
+  "0x22ef0ca0ae7542df5f7705e192879be71cfeed37": {
+    "totalClaim": "14589.727460009029",
+    "bought": "13755.335849444977",
+    "gasRefund": "834.391610564052",
+    "refundedTxs": [
+      "0x97259139435ea4fc791504d1d7bd0164a4679183a199df8bfe0015e9cc25a300"
+    ],
+    "totalClaimRaw": "14589727460009029"
+  },
+  "0x253c5d65dcd792f6c46dbc78dfa676de940180ef": {
+    "totalClaim": "155566.203420780635",
+    "bought": "154681.493143883052",
+    "gasRefund": "884.710276897583",
+    "refundedTxs": [
+      "0x0407810b48389beb85fae85dea4af61a1741c33104248047164c28142e030aa7"
+    ],
+    "totalClaimRaw": "155566203420780635"
+  },
+  "0x228d5cb43d060c36ffc18f17ee1048edbadaa0ba": {
+    "totalClaim": "42962.784507807921",
+    "bought": "39915.997206365187",
+    "gasRefund": "3046.787301442734",
+    "refundedTxs": [
+      "0x3b5ee039aead302d9e521b441695b0722261ac17b77504e7233079f4ce50662b",
+      "0xc4f578e411ed7b362ff1c4f8cc5caa545816213ed32d2aeb1231b044e4310864",
+      "0x14978f7466b216da84c84fd98c9c3cb02000ca93333bf7e2323e3dfa33b64636"
+    ],
+    "totalClaimRaw": "42962784507807921"
+  },
+  "0x216c6eb164b4af7bb292279c6886258722b7f2fb": {
+    "totalClaim": "38380.661224770435",
+    "bought": "36803.069697491256",
+    "gasRefund": "1577.591527279179",
+    "refundedTxs": [
+      "0x19cdb3189b73de346b48939d761d60636f889d10ac0e5a814b60994bd4ac30f7",
+      "0xc7f8e574e092c84827572ded605360c25ca7705b39a1dc6396c803cc11f1c5ae"
+    ],
+    "totalClaimRaw": "38380661224770435"
+  },
+  "0x2401a082360623da074784ae9f361668935a690b": {
+    "totalClaim": "1001284.132834248987",
+    "bought": "1000001.000276584786",
+    "gasRefund": "1283.132557664201",
+    "refundedTxs": [
+      "0x3ae91c452e1d7f25c7ca1c2358b77076846d3b38ed32e66c4f5b0273bdbdc0e7",
+      "0xe4e356412c5ad613ee2fe4c0a732dd002e7129896d924a55f397837b5d7887dc"
+    ],
+    "totalClaimRaw": "1001284132834248987"
+  },
+  "0x2ef0782745b9890c2d1047cbd33be98e22ec35a2": {
+    "totalClaim": "95164.469643816191",
+    "bought": "94513.963561180148",
+    "gasRefund": "650.506082636043",
+    "refundedTxs": [
+      "0x75158086d3fa2b15ecb8cd8993277c041872ac5515487717ecbf0db227fce3c0"
+    ],
+    "totalClaimRaw": "95164469643816191"
+  },
+  "0x2976a1719e2fcbc69caef98da238e45c50e09b18": {
+    "totalClaim": "22814.290314973717",
+    "bought": "20932.429155530331",
+    "gasRefund": "1881.861159443386",
+    "refundedTxs": [
+      "0xf87d40b69c017b409d5dc7d37886b1297474386dc718538b395c6dcc936716c0",
+      "0x3de7e83d725b6b660616da203241f9f9698cabba9d9506401e99c337fdc3b9bc",
+      "0x1d5e169d4fa1c12f09e29b9e4925d31ac87ae2ca4089af0ee0d36ed1d0193515"
+    ],
+    "totalClaimRaw": "22814290314973717"
+  },
+  "0x2f53a6d820d72fd3e90ac624ef3585c0dfe4d8d8": {
+    "totalClaim": "102801.748559522971",
+    "bought": "102141.595016223526",
+    "gasRefund": "660.153543299445",
+    "refundedTxs": [
+      "0x6547eba16776730f170f03f8bb732bdf7eec46ce85f219f9d720ca2453fb87ae"
+    ],
+    "totalClaimRaw": "102801748559522971"
+  },
+  "0x217109687feda2fb543c9fda73adda825a1a55f1": {
+    "totalClaim": "16038.9436947129",
+    "bought": "16038.9436947129",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "16038943694712900"
+  },
+  "0x24ea5f00bbebdc39130915c19bfba05be7333e59": {
+    "totalClaim": "7920.112407177198",
+    "bought": "7528.034655808043",
+    "gasRefund": "392.077751369155",
+    "refundedTxs": [
+      "0xda02d17559c7039335cbb52a90074c1855869c71cae8b5925e45b5c29d472845"
+    ],
+    "totalClaimRaw": "7920112407177198"
+  },
+  "0x29fcf46b4bec93d582be01b3ecc573daacbffc0e": {
+    "totalClaim": "16409.876003244294",
+    "bought": "16053.066537258",
+    "gasRefund": "356.809465986294",
+    "refundedTxs": [
+      "0x0e6488935f41933eb820dfcc2668c361636a022306bce588c80088c17f2672d3"
+    ],
+    "totalClaimRaw": "16409876003244294"
+  },
+  "0x2dcf32cc4a1486d4d8a686ce92a367e1856b55df": {
+    "totalClaim": "2354.17748211565",
+    "bought": "1764.258531922334",
+    "gasRefund": "589.918950193316",
+    "refundedTxs": [
+      "0x3e77e60400bb9cb9b1ae12aced002c80c4358b244eac4bf32252e88f697de89a"
+    ],
+    "totalClaimRaw": "2354177482115650"
+  },
+  "0x2e9713df5abe13885fa99423b0a8d39c0796d07d": {
+    "totalClaim": "71669.369087035904",
+    "bought": "70549.053506948838",
+    "gasRefund": "1120.315580087066",
+    "refundedTxs": [
+      "0x30f116ae1fcea3dac7ab196ebd57b6429f80019ad08007436f4372dc8a1e524d",
+      "0x040ca6209e787eb9b8e32e6b48dc7cec574d9b09929369ac0bbcddae7070c4de"
+    ],
+    "totalClaimRaw": "71669369087035904"
+  },
+  "0x2292d0dd9f6770d670dcdb8ed1a99a23acaa43f1": {
+    "totalClaim": "12407.680213534539",
+    "bought": "12007.869999932685",
+    "gasRefund": "399.810213601854",
+    "refundedTxs": [
+      "0x7a635c861d20a31da13f4dcc3e7b2cb0d0edd37cc4d081d160707506b98cd6ba"
+    ],
+    "totalClaimRaw": "12407680213534539"
+  },
+  "0x2b407a49c00079bfb92401282dac2fa5bc534069": {
+    "totalClaim": "27980.720604926465",
+    "bought": "27475.191529973778",
+    "gasRefund": "505.529074952687",
+    "refundedTxs": [
+      "0x5d9ac1ba4ca1983020da37f3da39389c2552443ea122a0e79d15e37ee21a2f97"
+    ],
+    "totalClaimRaw": "27980720604926465"
+  },
+  "0x2401270543d683c1c428426e6a40e0f1d3168bef": {
+    "totalClaim": "14372.917995789513",
+    "bought": "14026.844217533332",
+    "gasRefund": "346.073778256181",
+    "refundedTxs": [
+      "0x895f541f4824989b5374c9b48c2ae778cf19d81ab4b56af3b0d36b134aea0bfc"
+    ],
+    "totalClaimRaw": "14372917995789513"
+  },
+  "0x28e451413bcc9d5a1611f94760c1512cdd84bfe8": {
+    "totalClaim": "14786.477488378991",
+    "bought": "14163.373257359127",
+    "gasRefund": "623.104231019864",
+    "refundedTxs": [
+      "0x2654ce7fff825a1b2b81a6cfbc4d6c2907619b39b4dd0452e8461a695d233c0b"
+    ],
+    "totalClaimRaw": "14786477488378991"
+  },
+  "0x22797541d421c3c061b4e6474e84159363e75ee8": {
+    "totalClaim": "9717.85073894637",
+    "bought": "9134.351741432024",
+    "gasRefund": "583.498997514346",
+    "refundedTxs": [
+      "0x3ca61f1158696f90306a5f0be846db4341104d7b690dc7419633ea76670140cf",
+      "0xbaef76200c15f7327caa89ad3baad4ce4c6feb7aab77688865968c78b351dca4"
+    ],
+    "totalClaimRaw": "9717850738946370"
+  },
+  "0x2412b5303fc318994ddecf3a32b76a3f7747f8e9": {
+    "totalClaim": "16650.78981567527",
+    "bought": "16257.461123438074",
+    "gasRefund": "393.328692237196",
+    "refundedTxs": [
+      "0xa46bec9b16f3156581fd9ee7e4e0db95a2d6c275b487296ad5ae7df5d4f0b111"
+    ],
+    "totalClaimRaw": "16650789815675270"
+  },
+  "0x226993746f13b2af6417bc2edf70f96c8f2c379a": {
+    "totalClaim": "17761.703421997203",
+    "bought": "17426.390711864993",
+    "gasRefund": "335.31271013221",
+    "refundedTxs": [
+      "0x22a9500c75c6382da85b5eb37290009c174a76bcf392f16dec9c35e901d74e72"
+    ],
+    "totalClaimRaw": "17761703421997203"
+  },
+  "0x2585c961df82972196023a0bd4404b66b2fc72de": {
+    "totalClaim": "13147.992117483386",
+    "bought": "12581.533725647146",
+    "gasRefund": "566.45839183624",
+    "refundedTxs": [
+      "0x962f1d06518aa4ff99ade000a9a4318cfeb4e02e08700de90311777db3dfe558"
+    ],
+    "totalClaimRaw": "13147992117483386"
+  },
+  "0x2eb15511994346520f18316fd115a4e17f061501": {
+    "totalClaim": "3206.910472071277",
+    "bought": "2725.646725829044",
+    "gasRefund": "481.263746242233",
+    "refundedTxs": [
+      "0x1f2798ded906f1023c4cdda1689eeb6bad5f15ffb1d881ae5ce3a88a37f4e8de"
+    ],
+    "totalClaimRaw": "3206910472071277"
+  },
+  "0x28b5800be3e6688f244fe2eaf6fbc298f8908c01": {
+    "totalClaim": "39246.803162213673",
+    "bought": "38500.0",
+    "gasRefund": "746.803162213673",
+    "refundedTxs": [
+      "0x6f863ee5812aeae71eb1b40e7cd7c2e4cb9a298630bdd18d3e1b544b7b8b8cf1"
+    ],
+    "totalClaimRaw": "39246803162213673"
+  },
+  "0x2e7567661eeb4ee1ddd6a694d214060c43d849cc": {
+    "totalClaim": "3872.246000873439",
+    "bought": "3200.0",
+    "gasRefund": "672.246000873439",
+    "refundedTxs": [
+      "0xc2947869f8a95ff4cebff928c32aa61e59bc2ec959ecb71c066c72cc2f9ad9d0"
+    ],
+    "totalClaimRaw": "3872246000873439"
+  },
+  "0x2484bdeb7a6f29def89a631379d528b941ce6794": {
+    "totalClaim": "1369.367073251034",
+    "bought": "1022.539838417916",
+    "gasRefund": "346.827234833118",
+    "refundedTxs": [
+      "0x7966dd82b5f5c23dd45c11a9a6eddb65e48cfac8c4c6345c3ef50269db11ebe0"
+    ],
+    "totalClaimRaw": "1369367073251034"
+  },
+  "0x2a07ce9aa0a3ab2674fe08e08e65a60502300c4d": {
+    "totalClaim": "46304.379727341196",
+    "bought": "45509.563824453657",
+    "gasRefund": "794.815902887539",
+    "refundedTxs": [
+      "0x8aaad85ab89158dfde9c990cd7544cca285e2fca93e03392360817731b008105"
+    ],
+    "totalClaimRaw": "46304379727341196"
+  },
+  "0x214f029e872a59cfc223b5cc5959c96fd53cf4ba": {
+    "totalClaim": "16613.564842194588",
+    "bought": "16170.085664847047",
+    "gasRefund": "443.479177347541",
+    "refundedTxs": [
+      "0x31fae21c438351c54d4ad2dc3011c34e0d39d141f6d60f9c5cdef0a6f6ae4436"
+    ],
+    "totalClaimRaw": "16613564842194588"
+  },
+  "0x200c233de55c1e2ab271edb87e5abce150d637a0": {
+    "totalClaim": "130632.334413659633",
+    "bought": "130289.838124048347",
+    "gasRefund": "342.496289611286",
+    "refundedTxs": [
+      "0xb8773b15d1fcf0a5b6d881902d562a8fab9175061761f8af41c3775581054cec"
+    ],
+    "totalClaimRaw": "130632334413659633"
+  },
+  "0x20f965fcf307ac1edebb89bf16c319fa4a29eb5f": {
+    "totalClaim": "26389.738232457674",
+    "bought": "26032.493298796142",
+    "gasRefund": "357.244933661532",
+    "refundedTxs": [
+      "0xee3cd35a349cb2dd8c39f0eceb407612743abeefbb9e88937181eca803b1b6e1"
+    ],
+    "totalClaimRaw": "26389738232457674"
+  },
+  "0x267366675978218816c53804e4a0c1b13cc089ab": {
+    "totalClaim": "80495.696441078761",
+    "bought": "80003.996178827328",
+    "gasRefund": "491.700262251433",
+    "refundedTxs": [
+      "0xe078c8af16e86defa17c50ed841842deb978eba1079c4f8e2a4bf9a88afddeda"
+    ],
+    "totalClaimRaw": "80495696441078761"
+  },
+  "0x276720680d749cfc956fa7e791b4fc86e042ecfd": {
+    "totalClaim": "96788.424630829424",
+    "bought": "96180.654789030932",
+    "gasRefund": "607.769841798492",
+    "refundedTxs": [
+      "0xfb5f54ab7af50f2f9ca56884235392b2c4a078ecbc6f5297168ae12478f75ae6"
+    ],
+    "totalClaimRaw": "96788424630829424"
+  },
+  "0x205b5a3cc04bb25f5d07b22b8a1a4575704f6af6": {
+    "totalClaim": "16424.006561519163",
+    "bought": "15720.058268751797",
+    "gasRefund": "703.948292767366",
+    "refundedTxs": [
+      "0x6e58b3f471cba21fa1242eb43197e165aa950216ecdc6b9d086156b22233f098"
+    ],
+    "totalClaimRaw": "16424006561519163"
+  },
+  "0x24731ad877f183fbf7a401f8c8613c2a60039be6": {
+    "totalClaim": "706.046281640487",
+    "bought": "325.800464537206",
+    "gasRefund": "380.245817103281",
+    "refundedTxs": [
+      "0x1023b4ae123ead6f09fd1cead9ba09d137ad5fbe81f5e45efe11f82ec402e015"
+    ],
+    "totalClaimRaw": "706046281640487"
+  },
+  "0x2196c31cff0a216a4bb0aac69832b3d575c58ba5": {
+    "totalClaim": "644.263139741943",
+    "bought": "325.766638623138",
+    "gasRefund": "318.496501118805",
+    "refundedTxs": [
+      "0x7685252e57d9c34c6297fe01ab02954fb0f7d73d2876725c7892b0a650496a99"
+    ],
+    "totalClaimRaw": "644263139741943"
+  },
+  "0x2037255afc8effc5c321190d611938491e4cc83d": {
+    "totalClaim": "5774.201068141483",
+    "bought": "5202.340861321432",
+    "gasRefund": "571.860206820051",
+    "refundedTxs": [
+      "0xafd039d8e7d4d61b737c719a2846e86fc1f5682a6ff09ef18115175ba4545aa2"
+    ],
+    "totalClaimRaw": "5774201068141483"
+  },
+  "0x27e70d62185a78e9811632c1ce8bfa35606538fe": {
+    "totalClaim": "17587.232364218353",
+    "bought": "17244.708628061795",
+    "gasRefund": "342.523736156558",
+    "refundedTxs": [
+      "0x9710b9b30d33c9072f35e7e9a45f1b69018417d6a07fb2a4a2c04aa38e428f79"
+    ],
+    "totalClaimRaw": "17587232364218353"
+  },
+  "0x2d78c393caf3f1b45fcf44aeb8444db5bfcfa623": {
+    "totalClaim": "7214.342598341654",
+    "bought": "6898.121910840882",
+    "gasRefund": "316.220687500772",
+    "refundedTxs": [
+      "0x3260edab808ae4434e09a05c423438e146828f55bc9210e0829a016a25c907d7"
+    ],
+    "totalClaimRaw": "7214342598341654"
+  },
+  "0x28f26cba9ac6baea9fa3341038ac5e1d64fcf1fa": {
+    "totalClaim": "15099.294823016969",
+    "bought": "14566.875903651905",
+    "gasRefund": "532.418919365064",
+    "refundedTxs": [
+      "0x67e505637a53f14765525e435f2c723cd002eeef9bbdec5acf5590d715f2fde1"
+    ],
+    "totalClaimRaw": "15099294823016969"
+  },
+  "0x26bfc7857f58525c95183a20d11ce23b83762211": {
+    "totalClaim": "3785.5987489861",
+    "bought": "2439.812688592722",
+    "gasRefund": "1345.786060393378",
+    "refundedTxs": [
+      "0xdf65e913adbe1e19c6083758e63c82191636c59e3a320e23931053dbe7ddb95e",
+      "0x23a4b18b6dfc4d5c631c6e726855773f29e07db37a3bdbdef91cc184b2a0e088",
+      "0x8ed2f0df2cb5dc84367b9309ae9dafe9528c7c0c59e1f76f66e55c07837c72ca"
+    ],
+    "totalClaimRaw": "3785598748986100"
+  },
+  "0x290e22391f2cfc3a21ce2b75c77408f50b138868": {
+    "totalClaim": "8555.058399861768",
+    "bought": "8238.837712360996",
+    "gasRefund": "316.220687500772",
+    "refundedTxs": [
+      "0x21298fe1bf43815c244af518b5a2a2c14c218e3a268c278a2baa3a9b484492a3"
+    ],
+    "totalClaimRaw": "8555058399861768"
+  },
+  "0x238066cce6492c3ca978e2fad053b0a39274e754": {
+    "totalClaim": "1629.771628427957",
+    "bought": "1629.771628427957",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "1629771628427957"
+  },
+  "0x239a583f92587e630416035e1017447284152f35": {
+    "totalClaim": "42566.922587236285",
+    "bought": "42127.705547571416",
+    "gasRefund": "439.217039664869",
+    "refundedTxs": [
+      "0xd89df9d6666f36e3d7f6795ce9f5828282e0438f5794aedf68a792923cccca2a"
+    ],
+    "totalClaimRaw": "42566922587236285"
+  },
+  "0x2b10919b3e6c3c4fdff0f5d677c3d8b40055921b": {
+    "totalClaim": "9024.514467793456",
+    "bought": "8660.459639147866",
+    "gasRefund": "364.05482864559",
+    "refundedTxs": [
+      "0xe4ef1770c2fb7aaadb34997da4a840832a6722d644a4651ee40637c62726346c"
+    ],
+    "totalClaimRaw": "9024514467793456"
+  },
+  "0x2b6501b74149cbe243bf5897ed780253791ee009": {
+    "totalClaim": "17419.057313347545",
+    "bought": "17419.057313347545",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "17419057313347545"
+  },
+  "0x2d284d86b1845d7a6ab3f761ef3cecc88a971dd0": {
+    "totalClaim": "84199.085445371684",
+    "bought": "83615.371559355353",
+    "gasRefund": "583.713886016331",
+    "refundedTxs": [
+      "0x65dcec345acdd0d99e6dc19268f33047edbc8671d859b3a9456e1339301b8d29"
+    ],
+    "totalClaimRaw": "84199085445371684"
+  },
+  "0x22ab49827f60acd19334e24cbb36a9d9b5d63905": {
+    "totalClaim": "8291.835347764622",
+    "bought": "7888.866921044631",
+    "gasRefund": "402.968426719991",
+    "refundedTxs": [
+      "0x89f941c5673612a5d0e7b8b51e779354741e21b16c81b80b7f1c5ba5de224b09"
+    ],
+    "totalClaimRaw": "8291835347764622"
+  },
+  "0x2dab41f30a18816b778aee9277ed9059994bff9e": {
+    "totalClaim": "18292.237622462251",
+    "bought": "17951.64869264985",
+    "gasRefund": "340.588929812401",
+    "refundedTxs": [
+      "0xbe6dd6f5b10df085eba0d4d58c5b14f29286fe958f502ba1a20f6c2d4641416e"
+    ],
+    "totalClaimRaw": "18292237622462251"
+  },
+  "0x2aa2c037b1b68e543da36876b9aca6cf7e21fc40": {
+    "totalClaim": "17349.47274735583",
+    "bought": "16967.310640477212",
+    "gasRefund": "382.162106878618",
+    "refundedTxs": [
+      "0x18523de1b20ebb10f9cac11152446925ecb3b2b08c2508a88f3208189c526340"
+    ],
+    "totalClaimRaw": "17349472747355830"
+  },
+  "0x2a2820d424ed72e9466c89e9c7737df344be75dd": {
+    "totalClaim": "12137.823255421444",
+    "bought": "11220.375985105803",
+    "gasRefund": "917.447270315641",
+    "refundedTxs": [
+      "0x1a54be213c24940b335d9994a17b315de9e12776df6956080b7872f1f996d4fa",
+      "0x5af5ba98e6b1db210a7f05d8427e42a2071851d3bcafe6e8be9bdbded6255ec6"
+    ],
+    "totalClaimRaw": "12137823255421444"
+  },
+  "0x21a5805f639ea222df1900aff8aaa0530d63a05b": {
+    "totalClaim": "28425.046800522853",
+    "bought": "27836.613443838623",
+    "gasRefund": "588.43335668423",
+    "refundedTxs": [
+      "0xe90bf930ebd62a8dc9280663c589144de893534ad8362340daef087ba5ca5796"
+    ],
+    "totalClaimRaw": "28425046800522853"
+  },
+  "0x280aff4f29412dc8e8047a6d20d9ba5d5b810205": {
+    "totalClaim": "17301.762357745981",
+    "bought": "16915.998221417278",
+    "gasRefund": "385.764136328703",
+    "refundedTxs": [
+      "0x3f1f6029ee77abba020ce95a473924d3a1e8db933fb54379116facc3d9d0c723"
+    ],
+    "totalClaimRaw": "17301762357745981"
+  },
+  "0x22a573f1155bcbd48b8f9f69bc236dfa0b8297ed": {
+    "totalClaim": "9365.026399651258",
+    "bought": "8818.980927174147",
+    "gasRefund": "546.045472477111",
+    "refundedTxs": [
+      "0x2ce6f617c57e6ef39cab1eddf0792deaaf1ed47b4010a17a366b27fdf00d9e2a"
+    ],
+    "totalClaimRaw": "9365026399651258"
+  },
+  "0x256df198de0eb5204c941496718e8c3f537f1ea4": {
+    "totalClaim": "11138.521183282984",
+    "bought": "11138.521183282984",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "11138521183282984"
+  },
+  "0x27bc84b754b0b1a9a732b30d507dde33afb73cc8": {
+    "totalClaim": "42542.410126261037",
+    "bought": "40860.204382401868",
+    "gasRefund": "1682.205743859169",
+    "refundedTxs": [
+      "0x20ca9406362f6127ff79a39d065fdb4610a27fc818c33dc991be3ec00bd13359",
+      "0xee51fae244b29d28021eed63cf1537d184bbb905694de6f483c28879786ecc45"
+    ],
+    "totalClaimRaw": "42542410126261037"
+  },
+  "0x2e0473e3a5687e0b992dad250da005fee6bd83d1": {
+    "totalClaim": "3131.82461526405",
+    "bought": "2430.909056313346",
+    "gasRefund": "700.915558950704",
+    "refundedTxs": [
+      "0xfb6e39d5d0d02d127523edef75970a699f9b790aef59899548b178573cab30e2"
+    ],
+    "totalClaimRaw": "3131824615264050"
+  },
+  "0x26921cb019126a14cad7b4433c4a9d8cb09bf491": {
+    "totalClaim": "1812.390711118208",
+    "bought": "1461.304747196384",
+    "gasRefund": "351.085963921824",
+    "refundedTxs": [
+      "0xd65b937bbe7c15f0d5c4eeecc989b16eb88f0cdc3b9b2b0900474d6a6d0fd07f"
+    ],
+    "totalClaimRaw": "1812390711118208"
+  },
+  "0x24d598c2cfd76cf6a3084b0d52fd3081eb87ce30": {
+    "totalClaim": "26616.987387223564",
+    "bought": "26144.948831949399",
+    "gasRefund": "472.038555274165",
+    "refundedTxs": [
+      "0xb7070bf4471f4c1df7c7beb39ad63ffb826aa1e4cef043f20fadb9cc3479fce2"
+    ],
+    "totalClaimRaw": "26616987387223564"
+  },
+  "0x2cbb1b094dafb2beb3bfaa2724587c1c7911faf5": {
+    "totalClaim": "3503.131436131983",
+    "bought": "2916.330689260346",
+    "gasRefund": "586.800746871637",
+    "refundedTxs": [
+      "0x1f2f169b8db7ac9e04a7929467d8bd7ac6a0683a70740885e637354dff3d1788"
+    ],
+    "totalClaimRaw": "3503131436131983"
+  },
+  "0x28057f888602daaa089b33f6491d26370a297cf5": {
+    "totalClaim": "10035.706164022579",
+    "bought": "8292.577518299831",
+    "gasRefund": "1743.128645722748",
+    "refundedTxs": [
+      "0xf0dfdb7780d521be25643ffa5058591553f8de613532b19bb8fb1ac393bcbe2b",
+      "0x30e8d6c0098f302394abf4d19ff372de50a2153fe3c66fc0261e70fb5a0dd929"
+    ],
+    "totalClaimRaw": "10035706164022579"
+  },
+  "0x2e9b3f71a3c4b47342889451a0c262e21025c3cc": {
+    "totalClaim": "21941.864563058506",
+    "bought": "21420.655324943282",
+    "gasRefund": "521.209238115224",
+    "refundedTxs": [
+      "0xf92eaeeeb24e1d81b5a6ce21c4b5e4ec486cadc65f895f9c1896b6905d6d1156"
+    ],
+    "totalClaimRaw": "21941864563058506"
+  },
+  "0x248a25df3d1f7182947b4f7d63df299b9121f858": {
+    "totalClaim": "28264.996913098747",
+    "bought": "27822.886911258453",
+    "gasRefund": "442.110001840294",
+    "refundedTxs": [
+      "0x9c71acf990ba576f5716d4658757123a28ccdcb2ed61dd6e2d4a0ffe0691b7d8"
+    ],
+    "totalClaimRaw": "28264996913098747"
+  },
+  "0x250629395a031094763f010098bc56a352e5cd5c": {
+    "totalClaim": "25409.993912043792",
+    "bought": "24618.907440715487",
+    "gasRefund": "791.086471328305",
+    "refundedTxs": [
+      "0x971ebef7ef1913379d8b3600f5e64bb08040f92b34d43e688f9c120020a84a36"
+    ],
+    "totalClaimRaw": "25409993912043792"
+  },
+  "0x22eac4a5381adaf34b748f10a4b57d25d8981963": {
+    "totalClaim": "78492.795388224668",
+    "bought": "76381.723390629644",
+    "gasRefund": "2111.071997595024",
+    "refundedTxs": [
+      "0x45b7f1b3dd8991bf018a92fdff05a3d50776d6d3974c2cb7a1c692585271a61c",
+      "0xc4b87c0f53ad132b251b7849d56be941881b8c0979ce29c570e92fe1f7656b8f",
+      "0x5c10f8bf9a9213fc548f3edcc0e1a244905e091b37cdbb64ec1b3bd558f16c54"
+    ],
+    "totalClaimRaw": "78492795388224668"
+  },
+  "0x22ee867df1d6032d05ce4a080b080a9d8db95689": {
+    "totalClaim": "13343.314345080599",
+    "bought": "12606.397804933993",
+    "gasRefund": "736.916540146606",
+    "refundedTxs": [
+      "0x9129a08d325a5ece6498c652b06c6a3496d4cb1601e5607660ca5aa0c781ac4e"
+    ],
+    "totalClaimRaw": "13343314345080599"
+  },
+  "0x22d652c809cb5d21d0a485ec8e09470e56637570": {
+    "totalClaim": "13347.792064743975",
+    "bought": "12616.374901762642",
+    "gasRefund": "731.417162981333",
+    "refundedTxs": [
+      "0x4378c32e4ce4460f6ef493c49054bd26392ce5b43b5c6491c90f430ffb4e9438"
+    ],
+    "totalClaimRaw": "13347792064743975"
+  },
+  "0x21ab95c6079c3db7583a37048f6f866459fc66a7": {
+    "totalClaim": "11210.540621667114",
+    "bought": "10479.123458685781",
+    "gasRefund": "731.417162981333",
+    "refundedTxs": [
+      "0x044fda96552eed71cbf982dd4af1e4f10cbe4e451afc5e69325bb58a09e617f9"
+    ],
+    "totalClaimRaw": "11210540621667114"
+  },
+  "0x2fea68b6083b4b215adaad7faf6ae3a696f09137": {
+    "totalClaim": "10739.321000441632",
+    "bought": "9834.419215071667",
+    "gasRefund": "904.901785369965",
+    "refundedTxs": [
+      "0xe9ef14441ff2f8acaa7ecc2ba20e13fbc07842ef239c723867fd8a9771552eb4"
+    ],
+    "totalClaimRaw": "10739321000441632"
+  },
+  "0x2ebbdf8c79d3d9653d555eeff63523ffb8080078": {
+    "totalClaim": "124310.751192070815",
+    "bought": "123250.861314120742",
+    "gasRefund": "1059.889877950073",
+    "refundedTxs": [
+      "0x8ec1f57bce05acb4b05b2915668deb2b1da04b231711a45358c7597ac5040c1f"
+    ],
+    "totalClaimRaw": "124310751192070815"
+  },
+  "0x2e88addbe05fd79d38bfcba2d0a89b50a38b9d55": {
+    "totalClaim": "25561.208670184203",
+    "bought": "24476.5356465519",
+    "gasRefund": "1084.673023632303",
+    "refundedTxs": [
+      "0x1454bdd8771b2b4f5b008ab35f01da8d3e63f6aa4677764e59c1cfab197c37e8"
+    ],
+    "totalClaimRaw": "25561208670184203"
+  },
+  "0x23d208c963d9945695882ba278e1769918a241fd": {
+    "totalClaim": "10300.0",
+    "bought": "10300.0",
+    "gasRefund": "0.0",
+    "refundedTxs": [],
+    "totalClaimRaw": "10300000000000000"
+  },
+  "0x215244e6916df668d8a8ea857a409cde435ab878": {
+    "totalClaim": "15017.458303778454",
+    "bought": "13565.467114174333",
+    "gasRefund": "1451.991189604121",
+    "refundedTxs": [
+      "0xfc59b3970a18df0889ad852b6d1419cea8cd249a6588c7f2b730135cb0475f22",
+      "0x1f06e104fba03f853f52f57527397a55dbebcf4033c53747a22287acfe523dc3"
+    ],
+    "totalClaimRaw": "15017458303778454"
+  },
+  "0x2bcddb9c94a3392f4a6e8229c42443c128866f75": {
+    "totalClaim": "92290.913853350772",
+    "bought": "88423.64710049213",
+    "gasRefund": "3867.266752858642",
+    "refundedTxs": [
+      "0x155c60cd2d63998ac028705147ebcd19c48a5e6d9b70324b01016800b8741f28",
+      "0x31ea5cfa0e0989c253ca96c705345a29a751b97924714c7c3b4aca983bf5f2b1",
+      "0x1fb7c7406a8812ae6c67b9c6ad6f49c165d1a49970c2649209ace4c7afbbd442"
+    ],
+    "totalClaimRaw": "92290913853350772"
+  },
+  "0x29ec750f3ca2ac5f875c4ab7a2fcc9f5ee7478c9": {
+    "totalClaim": "14869.418957359513",
+    "bought": "13487.672881269285",
+    "gasRefund": "1381.746076090228",
+    "refundedTxs": [
+      "0xdd7875591c5b43b4a759953b0ffafa0a2bd616d5b831f61f27d2b10ba8cc0eac",
+      "0x738859fa28fb3e7f2938684546f7b38ffa7424867a2b2aa5294a0f62e5202ce2"
+    ],
+    "totalClaimRaw": "14869418957359513"
+  },
+  "0x2027112604ae49e464cc6db78b4c58c539bcff4a": {
+    "totalClaim": "231925.623012193557",
+    "bought": "228624.422588728989",
+    "gasRefund": "3301.200423464568",
+    "refundedTxs": [
+      "0x680506507352fbc284c82c75160c749cff32bc05456966aca5f3156220473d44",
+      "0xef9db7c7e4f92a9d85e39031dad6acf9e49165163db500f675bfa0f621e5855e"
+    ],
+    "totalClaimRaw": "231925623012193557"
+  },
+  "0x2de8ff0749fd129da6449d869b5d741ae9748ee6": {
+    "totalClaim": "14914.243856865933",
+    "bought": "12764.206913831908",
+    "gasRefund": "2150.036943034025",
+    "refundedTxs": [
+      "0x12b8a6d853c51080413561ac9a7349ed773341c73165821fb2cc47f383fb8d2d",
+      "0xed5922b668806712b77bb6b96721b7dec833cd7e5861b024540c084f2881c6ec"
+    ],
+    "totalClaimRaw": "14914243856865933"
+  },
+  "0x24fb9f6d2c72a00224ce6ebf95e007a26bea8d4c": {
+    "totalClaim": "16572.054284736062",
+    "bought": "14886.115331272647",
+    "gasRefund": "1685.938953463415",
+    "refundedTxs": [
+      "0x3f462b86fa461bd48bfd60260e218f5522bca6ed5ecf89981ae169724e6d0689",
+      "0xb2998a8769f29fd1099433b44887d24459af64cc31abd98d57bf2826e767b960"
+    ],
+    "totalClaimRaw": "16572054284736062"
+  },
+  "0x2f9389affdb2b2ca43cc72747fb789453b93a5a0": {
+    "totalClaim": "3376.936644216104",
+    "bought": "2813.507659342554",
+    "gasRefund": "563.42898487355",
+    "refundedTxs": [
+      "0x788ea64314ec5eac5c18d819d6f828d900fe512df7ad2c57959c8542cb296fe9"
+    ],
+    "totalClaimRaw": "3376936644216104"
+  },
+  "0x2669a7565899ab4bd7b7642aa2725e751de6035c": {
+    "totalClaim": "61806.125673600565",
+    "bought": "60909.71946948043",
+    "gasRefund": "896.406204120135",
+    "refundedTxs": [
+      "0x5aaf2c36f311087091bbc50c478cb2a392ff80c2e19a899287a6811dd1c01d25"
+    ],
+    "totalClaimRaw": "61806125673600565"
+  },
+  "0x21339313dd4d44713fc075fc4ab8dd6b8e9724c0": {
+    "totalClaim": "25925.001112520066",
+    "bought": "25143.518780723025",
+    "gasRefund": "781.482331797041",
+    "refundedTxs": [
+      "0xa123d0a4227b4c281284342bb281abb38302c196723e7d2e93355921de947ced"
+    ],
+    "totalClaimRaw": "25925001112520066"
+  },
+  "0x2ffa2d2b6d66bb11ba332f3ab26e3ccef3b76724": {
+    "totalClaim": "14693.830258598807",
+    "bought": "12211.754181589643",
+    "gasRefund": "2482.076077009164",
+    "refundedTxs": [
+      "0xaf8e1a220cd840a247add3f5053503812f45ee6832beed760a851b20103113e5",
+      "0x91d5cfbd5f31ae69cf25a8fe588d43b348b370dd967027ce09996fa128815fc9",
+      "0xe278c6cbef131ecd0987999e8cc1432293c3850b301ba4fc417f5ccdef9c7ff6"
+    ],
+    "totalClaimRaw": "14693830258598807"
+  },
+  "0x288134424520caadf321ad1a7dbd4f11665ea26c": {
+    "totalClaim": "8943.98855170764",
+    "bought": "8321.936897887709",
+    "gasRefund": "622.051653819931",
+    "refundedTxs": [
+      "0xef41bebbd0562853827485b1233907339d82a86165f8776a0028e4418674622f"
+    ],
+    "totalClaimRaw": "8943988551707640"
+  },
+  "0x284edac35636a72e8bb99f33b12d0fe521c7fc47": {
+    "totalClaim": "9414.308673379865",
+    "bought": "6968.246622336126",
+    "gasRefund": "2446.062051043739",
+    "refundedTxs": [
+      "0xb595e24ee3f607772a71e0844a78388e9e29d1fe9195c9b7efc6921e380fc411",
+      "0xf6cb98a5014cbe713cfda55f9aa92e3429de3debfebf1d2391efe3fbf1249a89",
+      "0x2db098a0b0c8d1822aaadb91fb353595ff3ead1fa050fa5116daa7f9601bb465"
+    ],
+    "totalClaimRaw": "9414308673379865"
+  },
+  "0x20b2ef3736845a6b75397ebe78c88469752af4b6": {
+    "totalClaim": "1854.70257212468",
+    "bought": "1200.188352729324",
+    "gasRefund": "654.514219395356",
+    "refundedTxs": [
+      "0x1d0f38b6de6b54ab3efa6c3a87548fd8fe6e5e3f8ad9ed9cff15c21f2738d15f"
+    ],
+    "totalClaimRaw": "1854702572124680"
+  },
+  "0x2be4367a5a5afac1963a7801c946e6f6e0dea365": {
+    "totalClaim": "1361.851088031256",
+    "bought": "0.0",
+    "gasRefund": "1361.851088031256",
+    "refundedTxs": [
+      "0x8b7946d8d5c7dbebe0ebb3cdde29c87efe886e715e4375e41ad94b861874cb1d"
+    ],
+    "totalClaimRaw": "1361851088031256"
+  },
+  "0x2869daeb6298e2df78f7a19535d24ecc5c6f85a2": {
+    "totalClaim": "2149.432199775741",
+    "bought": "0.0",
+    "gasRefund": "2149.432199775741",
+    "refundedTxs": [
+      "0x0c0983538ef0cf56888c5a55d051d1a80cc28987f6f79c7c859211f2742fa92b"
+    ],
+    "totalClaimRaw": "2149432199775741"
+  },
+  "0x29d6d6d84c9662486198667b5a9fbda3e698b23f": {
+    "totalClaim": "1362.019706998387",
+    "bought": "0.0",
+    "gasRefund": "1362.019706998387",
+    "refundedTxs": [
+      "0x0caa7e42ed739cb6e6a8a0f2a4720a2de27e35aaa7c14e8e7e1ad58aec1024fb"
+    ],
+    "totalClaimRaw": "1362019706998387"
+  },
+  "0x26af7ca751f7f572c891a0969ea8d75098d335fd": {
+    "totalClaim": "626.696948776563",
+    "bought": "0.0",
+    "gasRefund": "626.696948776563",
+    "refundedTxs": [
+      "0xec344d7e7cc13bd4c3be09fffc0efa10611522c617bde96380bb8769ccef0eac"
+    ],
+    "totalClaimRaw": "626696948776563"
+  },
+  "0x26a2ae500fba1c7dcc5a52f0f580a01e1ccd4308": {
+    "totalClaim": "1326.643861362388",
+    "bought": "0.0",
+    "gasRefund": "1326.643861362388",
+    "refundedTxs": [
+      "0x535045fb0720e50a38120bc98fa01b8bd48c4ea159f07f82d8173d5aaf91480d"
+    ],
+    "totalClaimRaw": "1326643861362388"
+  },
+  "0x231f8f1c84d5b6aa07e763690b15d7468763e146": {
+    "totalClaim": "1523.475519782446",
+    "bought": "0.0",
+    "gasRefund": "1523.475519782446",
+    "refundedTxs": [
+      "0xa87b178841b43fc2dff259f5506429bad2057b0e6b920a3b1fc7331a4b638207"
+    ],
+    "totalClaimRaw": "1523475519782446"
+  },
+  "0x28fd24db79a0996f78730beb64043085a6bee272": {
+    "totalClaim": "1677.064417281484",
+    "bought": "0.0",
+    "gasRefund": "1677.064417281484",
+    "refundedTxs": [
+      "0x2402bdbdda88e4d72d3bbe4a9ed3b979f722293d6c4732c5c2eb09a370c569b8"
+    ],
+    "totalClaimRaw": "1677064417281484"
+  },
+  "0x2d53ee3e8a8b74f5b2a905426d5f11a925187cc4": {
+    "totalClaim": "1408.518882325162",
+    "bought": "0.0",
+    "gasRefund": "1408.518882325162",
+    "refundedTxs": [
+      "0xd7e6f9353377d8d53b78425182514e9246c7379e1786a92f92e1cc2f861dd1b0",
+      "0x8bcd2b9b33782b2ccb1662663114acdcd4932dbb77e819d375eb1168596bcae3"
+    ],
+    "totalClaimRaw": "1408518882325162"
+  },
+  "0x2ee3878ba9d834fc08153f363a3dcaeef96c7058": {
+    "totalClaim": "2546.262799788507",
+    "bought": "0.0",
+    "gasRefund": "2546.262799788507",
+    "refundedTxs": [
+      "0x0ed5c82d709a997bd6bc9f12fb89b9effd663c6519cabcb07c1f8272f2cf3e31",
+      "0x3e081f85f8faca1aab99e52344d83e37539a943684f70902ed606ed3d23e188e"
+    ],
+    "totalClaimRaw": "2546262799788507"
+  },
+  "0x21056b8ba56cbf2f6293ac3cd322041f74c9672d": {
+    "totalClaim": "1692.417975310153",
+    "bought": "0.0",
+    "gasRefund": "1692.417975310153",
+    "refundedTxs": [
+      "0x203526551a1738eeb2a727ef097114bfb434f635e573d1f85321d420ae648557"
+    ],
+    "totalClaimRaw": "1692417975310153"
+  },
+  "0x290e2442f187475a4edcfa13a2bc4e652eae18ab": {
+    "totalClaim": "1241.977841921007",
+    "bought": "0.0",
+    "gasRefund": "1241.977841921007",
+    "refundedTxs": [
+      "0xce1b3717c3a257247ececeb55ff5a9563e7dfe015d12cccfaa93884287a9e1e7"
+    ],
+    "totalClaimRaw": "1241977841921007"
+  },
+  "0x2fa3a6e0530428b9ca1c6c6ed59d7e1e97e5a29c": {
+    "totalClaim": "1327.799905909585",
+    "bought": "0.0",
+    "gasRefund": "1327.799905909585",
+    "refundedTxs": [
+      "0x5b3aab9af133bb7115b1861fb729765ec4cfb301bba6806d9ae9e9e34103615b"
+    ],
+    "totalClaimRaw": "1327799905909585"
+  },
+  "0x203df0de3294a5f904acd3135beb1ba8cf92a54c": {
+    "totalClaim": "1167.523375309976",
+    "bought": "0.0",
+    "gasRefund": "1167.523375309976",
+    "refundedTxs": [
+      "0x9ab66231720d0deb939f432d1ef0e91535cdc9e759c51ca8d23e3c2fd644bb4a",
+      "0x2b401052b4233be1f40e6e4160d76a544adf8e6167bed11d265d5f856e0289a7"
+    ],
+    "totalClaimRaw": "1167523375309976"
+  },
+  "0x22ca65532f059393eb57893ee4d9b66b918dd9cc": {
+    "totalClaim": "1426.15545449548",
+    "bought": "0.0",
+    "gasRefund": "1426.15545449548",
+    "refundedTxs": [
+      "0x8cd9cf6c1cc0da7f77733e94b81bb410b3642dfe6552cfebb63de62a3d2e7f49",
+      "0x10d3a0906d332011fed2c61ced914f9bfc8990b32cc3428ceb9d69ab4a2dc0b0"
+    ],
+    "totalClaimRaw": "1426155454495480"
+  },
+  "0x2fa0af527f9ecba898ae9eae5349da7857efc75a": {
+    "totalClaim": "507.273769102076",
+    "bought": "0.0",
+    "gasRefund": "507.273769102076",
+    "refundedTxs": [
+      "0xd0ee28e03ec047dad88ae02204c4ced8e284abc2089b825dd1424bcbbe50fc98"
+    ],
+    "totalClaimRaw": "507273769102076"
+  },
+  "0x2222822d81de5b2630189ca18e0977431a951ac8": {
+    "totalClaim": "646.507970213042",
+    "bought": "0.0",
+    "gasRefund": "646.507970213042",
+    "refundedTxs": [
+      "0xc9afa76bbc9f650a85af92e0087cd3401506a71aa3b4d2d7dadf8a8a7f132c67"
+    ],
+    "totalClaimRaw": "646507970213042"
+  },
+  "0x294e624c0d3366b03041fb5fd228500814fa6f28": {
+    "totalClaim": "1551.492905045122",
+    "bought": "0.0",
+    "gasRefund": "1551.492905045122",
+    "refundedTxs": [
+      "0x2aa6d6e327359e8bae948f9c7de2f568e1d4148bcf0a314761c2461ecbe78eb2",
+      "0x6ca7cc321593823e552c6d703d93eb1f289356f98390f4bbe8d4f40d96a76f2c"
+    ],
+    "totalClaimRaw": "1551492905045122"
+  },
+  "0x21c91cb247c7300c341b97d19fd324d900f1f93d": {
+    "totalClaim": "731.647897814081",
+    "bought": "0.0",
+    "gasRefund": "731.647897814081",
+    "refundedTxs": [
+      "0xd69ea2ea576a721ecbbd41c9ebf1304bb103fb91573f978d5e404e07777ca994"
+    ],
+    "totalClaimRaw": "731647897814081"
+  },
+  "0x2c112977530c8a087477850b5e25e9a7c4e96e6e": {
+    "totalClaim": "2218.840449392371",
+    "bought": "0.0",
+    "gasRefund": "2218.840449392371",
+    "refundedTxs": [
+      "0x591396d26c173cab72efa59f18e77ead8646df1682a5726e0efcd74086cd04ce",
+      "0x6a06737ae6a70e6e889965e27c9f96c3101693e6fa494941db4f680373f9cdd5"
+    ],
+    "totalClaimRaw": "2218840449392371"
+  },
+  "0x2e82c77bbb334564d59946337882bb0cec0cfe88": {
+    "totalClaim": "1209.502275350453",
+    "bought": "0.0",
+    "gasRefund": "1209.502275350453",
+    "refundedTxs": [
+      "0x1b82ec67f181d2fca2e1d1d49390c43e5c6857f9fa5a38db6c4cd585d6ede902"
+    ],
+    "totalClaimRaw": "1209502275350453"
+  }
+}

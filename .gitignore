@@ -5,7 +5,3 @@ node_modules
 #Hardhat files
 cache
 artifacts
-
-claims*.json
-claims.csv
-claims_data.rs
