@@ -1,6 +1,6 @@
 const { ethers } = require('hardhat');
 const { utils } = ethers;
-const { assert } = require("chai");
+const { assert } = require('chai');
 
 const { filterBy, groupBy, diff, toMap, mapValues, bn, sumValues } = require('./lib/utils');
 const exportClaims = require('./lib/export');
@@ -12,9 +12,7 @@ const ethPrice = 1763.9025;
 const hdxPrice = 0.080590606687;
 const governanceResolution = '🍩';
 
-const excluded = [
-  '0xC2C5A77d9f434F424Df3d39de9e90d95A0Df5Aca'.toLowerCase(), // treasury
-];
+const treasuryAddress = '0xC2C5A77d9f434F424Df3d39de9e90d95A0Df5Aca'.toLowerCase();
 
 const CONTRACTS = {
   xhdx: '0x6FCb6408499a7c0f242E32D77EB51fFa1dD28a7E'.toLowerCase(),
@@ -27,7 +25,7 @@ const xHDX = new ethers.Contract(CONTRACTS.xhdx, require('./abi/xhdx.json')).con
 const chunks = new Chunks(FROM_BLOCK, TO_BLOCK);
 
 async function generateClaims() {
-  console.log('generating claims for', governanceResolution);
+  console.log('generating claims for', governanceResolution, 'resolution');
   const totalSupply = await xHDX.totalSupply();
   console.log('xHDX total supply', formatHdx(totalSupply));
 
@@ -75,31 +73,42 @@ async function generateClaims() {
   const governanceOptions = {
     '🎂': [buyers],
     '🍩': [holders, onlyFailed],
-    '🍪': [holders]
+    '🍪': [holders],
   };
 
   const eligibleAddresses = governanceOptions[governanceResolution]
     .map(Object.keys)
     .flat()
-    .filter(address => !excluded.includes(address));
+    .filter(address => treasuryAddress !== address);
   console.log(eligibleAddresses.length, 'addresses eligible for claim');
 
   const claims = eligibleAddresses
-    .map(address => [
-      address,
-      {
+    .map(address => {
+      const claim = {
         gasCostHdx: bn(0),
         gasCost: bn(0),
         txs: [],
         ...(buyers[address] || {}),
         balance: balances[address] || bn(0),
-      },
-    ])
+      };
+      claim.total = claim.balance.add(claim.gasCostHdx);
+      return [address, claim];
+    })
     .reduce(toMap, {});
   console.log('with', formatHdx(sumValues(claims, c => c.balance)), 'xHDX bought');
   const totalGasCost = sumValues(claims, c => c.gasCost);
   console.log('and', utils.formatEther(totalGasCost), 'ETH gas refunded');
-  console.log('as', formatHdx(ethToHdx(totalGasCost)), 'xHDX');
+  const refundedGas = sumValues(claims, c => c.gasCostHdx);
+  console.log('as', formatHdx(refundedGas), 'xHDX');
+
+  const treasuryBalance = balances[treasuryAddress].sub(refundedGas);
+  console.log('remaining balance for treasury', formatHdx(treasuryBalance), 'xHDX');
+  assert.equal(
+    sumValues(claims, o => o.total)
+      .add(treasuryBalance)
+      .toString(),
+    totalSupply.toString(),
+  );
 
   exportClaims(formatClaims(claims));
 }
@@ -142,19 +151,16 @@ const formatHdx = hdx => utils.formatUnits(hdx, 12);
 const ethHdx = utils.parseEther(String(ethPrice / hdxPrice));
 const ethToHdx = eth => eth.mul(ethHdx).div(bn(10).pow(24));
 const formatClaims = claims =>
-  mapValues(claims, ([address, { balance, gasCostHdx, txs }]) => {
-    const claim = balance.add(gasCostHdx);
-    return [
-      address,
-      {
-        totalClaim: formatHdx(claim),
-        bought: formatHdx(balance),
-        gasRefund: formatHdx(gasCostHdx),
-        refundedTxs: txs.map(tx => tx.hash),
-        totalClaimRaw: claim.toString(),
-      },
-    ];
-  });
+  mapValues(claims, ([address, { balance, gasCostHdx, txs, total }]) => [
+    address,
+    {
+      totalClaim: formatHdx(total),
+      bought: formatHdx(balance),
+      gasRefund: formatHdx(gasCostHdx),
+      refundedTxs: txs.map(tx => tx.hash),
+      totalClaimRaw: total.toString(),
+    },
+  ]);
 
 generateClaims()
   .then(() => process.exit(0))
