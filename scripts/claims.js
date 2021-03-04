@@ -76,10 +76,13 @@ async function generateClaims() {
     '🍪': [holders],
   };
 
-  const eligibleAddresses = governanceOptions[governanceResolution]
-    .map(Object.keys)
-    .flat()
-    .filter(address => treasuryAddress !== address);
+  const eligibleAddresses = [
+    ...governanceOptions[governanceResolution]
+      .map(Object.keys)
+      .flat()
+      .filter(address => treasuryAddress !== address)
+      .reduce((set, a) => set.add(a), new Set()),
+  ];
   console.log(eligibleAddresses.length, 'addresses eligible for claim');
 
   const claims = eligibleAddresses
