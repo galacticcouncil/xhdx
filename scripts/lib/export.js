@@ -38,8 +38,7 @@ function rust(claims) {
   }, '');
   fs.writeFileSync(
     EXP_DIR + 'claims_data.rs',
-    `use lazy_static;\n` +
-      `use sp_std::vec;\n` +
+    `use sp_std::vec;\n` +
       `lazy_static::lazy_static! {\n` +
       `pub static ref CLAIMS_DATA: vec::Vec<(&'static str, u128)> = vec![\n` +
       `${vec}];\n` +
